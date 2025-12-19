@@ -1,6 +1,6 @@
 # Jamarko — Official Website
 
-![](assets\media\images\logos_and_banners\jamarko_banner.jpg){fig-alt="Jamarko Banner."}
+![](https://mohitshrestha.github.io/jamarko_website/assets/media/images/logos_and_banners/jamarko_banner.jpg)
 
 🛍️ **Visit Us:**
 
