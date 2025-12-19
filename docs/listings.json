@@ -1,6 +1,88 @@
 [
   {
-    "listing": "/blog.html",
-    "items": []
+    "listing": "/shop.html",
+    "items": [
+      "/shop/paperbags/products/product1.html",
+      "/shop/photoframes/products/product1.html",
+      "/shop/jewelryboxes/products/product1.html",
+      "/shop/lampshades/products/product1.html",
+      "/shop/boxes/products/product1.html",
+      "/shop/notebooks/products/product2.html",
+      "/shop/greetingcards/products/product1.html",
+      "/shop/wrappingpapers/products/product1.html",
+      "/shop/pencils/products/product1.html",
+      "/shop/notebooks/products/product1.html",
+      "/shop/lampshades/products/product2.html",
+      "/shop/jewelryboxes/products/product2.html",
+      "/shop/pencils/products/product2.html",
+      "/shop/boxes/products/product2.html",
+      "/shop/paperbags/products/product2.html",
+      "/shop/photoframes/products/product2.html",
+      "/shop/greetingcards/products/product2.html",
+      "/shop/wrappingpapers/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/photoframes/index.html",
+    "items": [
+      "/shop/photoframes/products/product1.html",
+      "/shop/photoframes/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/paperbags/index.html",
+    "items": [
+      "/shop/paperbags/products/product1.html",
+      "/shop/paperbags/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/lampshades/index.html",
+    "items": [
+      "/shop/lampshades/products/product1.html",
+      "/shop/lampshades/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/greetingcards/index.html",
+    "items": [
+      "/shop/greetingcards/products/product1.html",
+      "/shop/greetingcards/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/boxes/index.html",
+    "items": [
+      "/shop/boxes/products/product1.html",
+      "/shop/boxes/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/jewelryboxes/index.html",
+    "items": [
+      "/shop/jewelryboxes/products/product1.html",
+      "/shop/jewelryboxes/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/notebooks/index.html",
+    "items": [
+      "/shop/notebooks/products/product2.html",
+      "/shop/notebooks/products/product1.html"
+    ]
+  },
+  {
+    "listing": "/shop/pencils/index.html",
+    "items": [
+      "/shop/pencils/products/product1.html",
+      "/shop/pencils/products/product2.html"
+    ]
+  },
+  {
+    "listing": "/shop/wrappingpapers/index.html",
+    "items": [
+      "/shop/wrappingpapers/products/product1.html",
+      "/shop/wrappingpapers/products/product2.html"
+    ]
   }
 ]

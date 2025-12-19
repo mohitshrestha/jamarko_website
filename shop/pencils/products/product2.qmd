@@ -1,0 +1,43 @@
+---
+title: "GreenSketch Colored Pencil Set"
+subtitle: "Eco-friendly colored pencils made from recycled materials"
+categories: [Recycled Wood, Stationery]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Colored pencils set](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Colored pencils in use](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from recycled wood and non-toxic pigments  
+- Smooth, vibrant colors  
+- Plastic-free packaging  
+- Set of 12 colored pencils
+
+## 📝 Description
+GreenSketch is an eco-conscious colored pencil set made from recycled materials.  
+Perfect for drawing, coloring, and creative projects, while reducing environmental impact.
+
+## 📐 Item Details
+- **Length:** 17.5 cm | **Diameter:** 0.7 cm  
+- **Material:** Recycled wood & colored pigments | **Color:** Assorted  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled wood  
+- Non-toxic pigments, fully biodegradable  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can I sharpen them with a normal sharpener?** Yes  
+**Are they suitable for kids?** Yes, non-toxic and safe for children.

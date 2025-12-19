@@ -1,0 +1,43 @@
+---
+title: "GreenWish Thank You Card"
+subtitle: "Eco-friendly thank you card with recycled paper"
+categories: [Recycled Paper, Greeting Cards]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Thank you card front](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Thank you card inside](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled paper  
+- Elegant, minimal design  
+- Comes with a matching recycled envelope  
+- Ideal for thank you notes or appreciation messages
+
+## 📝 Description
+GreenWish is a stylish, eco-conscious thank you card made from recycled materials.  
+Perfect for expressing gratitude while reducing environmental impact.
+
+## 📐 Item Details
+- **Size:** 10 × 15 cm | **Weight:** 18 g  
+- **Material:** Recycled paper | **Color:** Off-white  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- Fully recyclable card and envelope  
+- Plastic-free packaging  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can I decorate it further?** Yes, suitable for pens, stamps, and stickers.  
+**Is it compostable?** Yes, fully biodegradable along with envelope.

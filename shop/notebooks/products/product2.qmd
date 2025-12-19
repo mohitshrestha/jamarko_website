@@ -1,0 +1,43 @@
+---
+title: "EcoPath Minimal Notebook"
+subtitle: "Sustainable notebook for everyday writing"
+categories: [Recycled Paper, Stationery]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Notebook cover](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Notebook pages](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled paper  
+- Compact and lightweight  
+- Plastic-free packaging  
+- Ideal for journaling, notes, and planning
+
+## 📝 Description
+EcoPath is a minimalist notebook made from recycled paper and cardboard.  
+Perfect for eco-conscious writers and students looking for a sustainable option.
+
+## 📐 Item Details
+- **Size:** B6 (125 × 176 mm) | **Pages:** 90 lined  
+- **Paper Weight:** 85 GSM | **Cover:** Recycled cardboard  
+- **Color:** Light brown | **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled materials  
+- Fully recyclable  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can I use gel pens?** Yes, works well.  
+**Is the cover durable?** Yes, sturdy recycled cardboard cover.

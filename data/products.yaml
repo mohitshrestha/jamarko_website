@@ -1,0 +1,498 @@
+products:
+  # Notebooks
+  - id: econote
+    title: "EcoNote Recycled Paper Notebook"
+    subtitle: "Handmade from 100% post-consumer recycled paper"
+    categories: [Recycled Paper, Stationery]
+    images: ["images/econote-1.jpg", "images/econote-2.jpg"]
+    highlights:
+      - 100% post-consumer recycled paper
+      - Smooth pages, low ink bleed
+      - Plastic-free packaging
+      - Great for journaling, notes, or gifting
+    description: "EcoNote is a minimalist notebook made from recycled paper and recycled cardboard. Designed for everyday writing, it offers a smooth, natural feel while helping reduce waste."
+    details:
+      Size: "A5 (148 × 210 mm)"
+      Pages: 80
+      Paper_Weight: "80 GSM"
+      Cover: "Recycled cardboard"
+      Color: "Natural off-white"
+      Made_in: "Nepal"
+    sustainability:
+      - Made from 100% recycled paper
+      - Chlorine-free processing
+      - Fully recyclable
+    shipping: "Ships in 2–3 business days, plastic-free packaging, 30-day returns accepted"
+    faqs:
+      - question: "Can I use pens?"
+        answer: "Yes, suitable for most pens and pencils."
+      - question: "Is the notebook recyclable?"
+        answer: "Yes, the entire product can be recycled."
+
+  - id: forestleaf
+    title: "ForestLeaf Spiral Notebook"
+    subtitle: "Eco-friendly spiral notebook made from recycled paper"
+    categories: [Recycled Paper, Stationery]
+    images: ["images/forestleaf-1.jpg", "images/forestleaf-2.jpg"]
+    highlights:
+      - Made from 100% post-consumer recycled paper
+      - Spiral-bound for easy page turning
+      - Plastic-free packaging
+      - Perfect for notes, sketches, or journaling
+    description: "ForestLeaf is a sustainable spiral notebook crafted from recycled paper. Durable and lightweight, ideal for students, office, or personal journaling."
+    details:
+      Size: "A5 (148 × 210 mm)"
+      Pages: 120
+      Paper_Weight: "80 GSM"
+      Cover: "Recycled cardboard"
+      Color: "Natural beige"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled paper
+      - Fully recyclable and eco-friendly packaging
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I use pens and markers?"
+        answer: "Yes, works with pens and light markers."
+      - question: "Is it refillable?"
+        answer: "No, fixed pages."
+
+  # Boxes
+  - id: ecopack
+    title: "EcoPack Recycled Storage Box"
+    subtitle: "Durable storage box made from 100% recycled cardboard"
+    categories: [Recycled Cardboard, Storage]
+    images: ["images/ecopack-1.jpg", "images/ecopack-2.jpg"]
+    highlights:
+      - Made from 100% post-consumer recycled cardboard
+      - Sturdy and foldable design
+      - Plastic-free packaging
+      - Ideal for storage or organization
+    description: "EcoPack is a sustainable storage solution made entirely from recycled cardboard. Lightweight yet strong, perfect for organizing your home, office, or workshop."
+    details:
+      Size: "30 × 20 × 15 cm"
+      Weight: "350 g"
+      Material: "Recycled cardboard"
+      Color: "Natural brown"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled cardboard
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, plastic-free packaging, 30-day returns"
+    faqs:
+      - question: "Is it water-resistant?"
+        answer: "No, avoid prolonged exposure to moisture."
+      - question: "Can it hold heavy items?"
+        answer: "Up to 5 kg safely."
+
+  - id: greenstore
+    title: "GreenStore Collapsible Gift Box"
+    subtitle: "Eco-friendly gift box made from recycled materials"
+    categories: [Recycled Cardboard, Gift Packaging]
+    images: ["images/greenstore-1.jpg", "images/greenstore-2.jpg"]
+    highlights:
+      - Made from 100% recycled cardboard
+      - Collapsible for easy storage
+      - Plastic-free packaging
+      - Perfect for gifts, crafts, or storage
+    description: "GreenStore is a versatile, eco-friendly gift box crafted from recycled cardboard. Folds flat when not in use, saving space and strong enough for small to medium items."
+    details:
+      Size: "25 × 25 × 10 cm"
+      Weight: "250 g"
+      Material: "Recycled cardboard"
+      Color: "Kraft brown"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled cardboard
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it hold fragile items?"
+        answer: "Yes, but add padding for fragile items."
+      - question: "Is it reusable?"
+        answer: "Yes, can be reused multiple times."
+
+  # Greeting Cards
+  - id: ecosmile
+    title: "EcoSmile Birthday Card"
+    subtitle: "Handmade recycled paper birthday greeting card"
+    categories: [Recycled Paper, Greeting Cards]
+    images: ["images/ecosmile-1.jpg", "images/ecosmile-2.jpg"]
+    highlights:
+      - Made from 100% post-consumer recycled paper
+      - Minimalist design with eco-friendly ink
+      - Plastic-free envelope included
+      - Perfect for birthdays or special occasions
+    description: "EcoSmile is a handmade birthday card crafted from recycled paper. Lightweight, durable, and stylish, it spreads joy while caring for the environment."
+    details:
+      Size: "10 × 15 cm"
+      Weight: "20 g"
+      Material: "Recycled paper"
+      Color: "Natural cream"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled paper
+      - Plastic-free packaging
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I use gel pens?"
+        answer: "Yes, works well."
+      - question: "Is the envelope recyclable?"
+        answer: "Yes, fully recyclable."
+
+  - id: greenwish
+    title: "GreenWish Thank You Card"
+    subtitle: "Eco-friendly thank you card with recycled paper"
+    categories: [Recycled Paper, Greeting Cards]
+    images: ["images/greenwish-1.jpg", "images/greenwish-2.jpg"]
+    highlights:
+      - Made from 100% recycled paper
+      - Elegant, minimal design
+      - Comes with a matching recycled envelope
+      - Ideal for thank you notes or appreciation messages
+    description: "GreenWish is a stylish, eco-conscious thank you card made from recycled materials. Perfect for expressing gratitude while reducing environmental impact."
+    details:
+      Size: "10 × 15 cm"
+      Weight: "18 g"
+      Material: "Recycled paper"
+      Color: "Off-white"
+      Made_in: "Nepal"
+    sustainability:
+      - Fully recyclable card and envelope
+      - Plastic-free packaging
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I decorate it further?"
+        answer: "Yes, suitable for pens, stamps, and stickers."
+      - question: "Is it compostable?"
+        answer: "Yes, fully biodegradable along with envelope."
+
+  # Jewelry Boxes
+  - id: ecogem
+    title: "EcoGem Recycled Jewelry Box"
+    subtitle: "Elegant jewelry box made from recycled materials"
+    categories: [Recycled Cardboard, Jewelry Boxes]
+    images: ["images/ecogem-1.jpg", "images/ecogem-2.jpg"]
+    highlights:
+      - Made from 100% recycled cardboard
+      - Soft inner lining for protection
+      - Plastic-free packaging
+      - Ideal for rings, necklaces, and small accessories
+    description: "EcoGem is a stylish, eco-friendly jewelry box made from recycled cardboard and lined with soft cotton. Perfect for gifting or storing delicate jewelry."
+    details:
+      Size: "10 × 10 × 5 cm"
+      Weight: "150 g"
+      Material: "Recycled cardboard & cotton lining"
+      Color: "Kraft brown"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled materials
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it hold multiple rings?"
+        answer: "Yes, fits several rings or small necklaces."
+      - question: "Is the lining removable?"
+        answer: "No, sewn in for protection."
+
+  - id: greenluxe
+    title: "GreenLuxe Recycled Jewelry Box"
+    subtitle: "Premium eco-friendly jewelry box for accessories"
+    categories: [Recycled Cardboard, Jewelry Boxes]
+    images: ["images/greenluxe-1.jpg", "images/greenluxe-2.jpg"]
+    highlights:
+      - Made from recycled cardboard and eco-felt lining
+      - Magnetic closure for secure storage
+      - Plastic-free packaging
+      - Perfect for rings, earrings, or bracelets
+    description: "GreenLuxe is a premium jewelry box crafted from recycled materials with a soft felt lining. Designed to protect your jewelry and reduce environmental impact."
+    details:
+      Size: "12 × 8 × 4 cm"
+      Weight: "180 g"
+      Material: "Recycled cardboard & felt lining"
+      Color: "Dark brown"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled materials
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it hold earrings?"
+        answer: "Yes, includes compartments for earrings."
+      - question: "Is it suitable for travel?"
+        answer: "Yes, compact and secure."
+
+  # Lampshades
+  - id: ecoglow
+    title: "EcoGlow Recycled Paper Lampshade"
+    subtitle: "Handmade lampshade crafted from recycled paper"
+    categories: [Recycled Paper, Home Decor]
+    images: ["images/ecoglow-1.jpg", "images/ecoglow-2.jpg"]
+    highlights:
+      - Made from 100% recycled paper
+      - Soft ambient lighting
+      - Plastic-free packaging
+      - Ideal for desks, bedrooms, or living rooms
+    description: "EcoGlow is an eco-friendly lampshade made from recycled paper. It diffuses light softly to create a warm, natural ambiance while reducing waste."
+    details:
+      Size: "25 × 25 × 20 cm"
+      Weight: "400 g"
+      Material: "Recycled paper & wire frame"
+      Color: "Natural cream"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled paper
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it be used with LED bulbs?"
+        answer: "Yes, safe with LED bulbs."
+      - question: "Is it water-resistant?"
+        answer: "No, keep away from moisture."
+
+  - id: greenlight
+    title: "GreenLight Bamboo Lampshade"
+    subtitle: "Eco-friendly bamboo and recycled paper lampshade"
+    categories: [Recycled Paper, Home Decor]
+    images: ["images/greenlight-1.jpg", "images/greenlight-2.jpg"]
+    highlights:
+      - Made from recycled paper and bamboo
+      - Lightweight and durable
+      - Plastic-free packaging
+      - Creates a warm, natural glow
+    description: "GreenLight is a sustainable lampshade combining bamboo and recycled paper. Perfect for eco-conscious home decor, providing soft, pleasant lighting."
+    details:
+      Size: "30 × 30 × 22 cm"
+      Weight: "450 g"
+      Material: "Recycled paper & bamboo"
+      Color: "Light brown"
+      Made_in: "Nepal"
+    sustainability:
+      - Bamboo and recycled paper materials
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it be used outdoors?"
+        answer: "No, indoor use only."
+      - question: "Is it easy to clean?"
+        answer: "Dust lightly with a dry cloth."
+
+  # Paper Bags
+  - id: ecocarry
+    title: "EcoCarry Grocery Bag"
+    subtitle: "Reusable paper bag made from recycled materials"
+    categories: [Recycled Paper, Bags]
+    images: ["images/ecocarry-1.jpg", "images/ecocarry-2.jpg"]
+    highlights:
+      - Made from 100% recycled paper
+      - Strong and durable for groceries
+      - Plastic-free and biodegradable
+      - Foldable for easy storage
+    description: "EcoCarry is a sustainable grocery bag crafted from recycled paper. Lightweight yet strong, perfect for carrying groceries, lunch, or everyday items."
+    details:
+      Size: "35 × 15 × 40 cm"
+      Weight: "100 g"
+      Material: "Recycled paper"
+      Color: "Kraft brown"
+      Made_in: "Nepal"
+    sustainability:
+      - Fully recyclable and biodegradable
+      - Plastic-free packaging
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it carry heavy items?"
+        answer: "Yes, up to 5 kg."
+      - question: "Is it waterproof?"
+        answer: "No, avoid prolonged contact with water."
+
+  - id: greentote
+    title: "GreenTote Recycled Shopping Bag"
+    subtitle: "Eco-friendly reusable paper tote bag"
+    categories: [Recycled Paper, Bags]
+    images: ["images/greentote-1.jpg", "images/greentote-2.jpg"]
+    highlights:
+      - Made from recycled paper and reinforced handles
+      - Plastic-free packaging
+      - Lightweight and foldable
+      - Ideal for shopping, gifts, or daily use
+    description: "GreenTote is a durable, eco-conscious paper tote made from recycled materials. Designed for convenience and sustainability."
+    details:
+      Size: "30 × 12 × 38 cm"
+      Weight: "90 g"
+      Material: "Recycled paper"
+      Color: "Natural kraft"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled paper
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I reuse it multiple times?"
+        answer: "Yes, it is durable for repeated use."
+      - question: "Can it hold liquids?"
+        answer: "No, avoid liquids to prevent damage."
+
+  # Pencils
+  - id: ecowrite
+    title: "EcoWrite Recycled Pencil"
+    subtitle: "Sustainable pencil made from recycled wood"
+    categories: [Recycled Wood, Stationery]
+    images: ["images/ecowrite-1.jpg", "images/ecowrite-2.jpg"]
+    highlights:
+      - Made from 100% recycled wood
+      - Smooth graphite for clean writing
+      - Non-toxic, eco-friendly materials
+      - Comes in a pack of 5
+    description: "EcoWrite is a sustainable pencil crafted from recycled wood and natural graphite. Ideal for writing, sketching, or drawing."
+    details:
+      Length: "19 cm"
+      Diameter: "0.7 cm"
+      Material: "Recycled wood & graphite"
+      Color: "Natural wood"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled wood
+      - Fully biodegradable and non-toxic
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Are they sharpened?"
+        answer: "Yes, pre-sharpened."
+      - question: "Are they suitable for children?"
+        answer: "Yes, non-toxic and safe."
+
+  - id: greensketch
+    title: "GreenSketch Colored Pencil Set"
+    subtitle: "Eco-friendly colored pencils made from recycled materials"
+    categories: [Recycled Wood, Stationery]
+    images: ["images/greensketch-1.jpg", "images/greensketch-2.jpg"]
+    highlights:
+      - Made from recycled wood and non-toxic pigments
+      - Smooth, vibrant colors
+      - Plastic-free packaging
+      - Set of 12 colored pencils
+    description: "GreenSketch is an eco-conscious colored pencil set made from recycled materials. Perfect for drawing, coloring, and creative projects."
+    details:
+      Length: "17.5 cm"
+      Diameter: "0.7 cm"
+      Material: "Recycled wood & colored pigments"
+      Color: "Assorted"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled wood
+      - Non-toxic pigments, fully biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I sharpen them with a normal sharpener?"
+        answer: "Yes"
+      - question: "Are they suitable for kids?"
+        answer: "Yes, non-toxic and safe for children."
+
+  # Photo Frames
+  - id: ecoframe
+    title: "EcoFrame Wooden Photo Frame"
+    subtitle: "Recycled wood frame for photos and artwork"
+    categories: [Recycled Wood, Home Decor]
+    images: ["images/ecoframe-1.jpg", "images/ecoframe-2.jpg"]
+    highlights:
+      - Made from 100% recycled wood
+      - Durable and lightweight
+      - Plastic-free packaging
+      - Ideal for photos, artwork, or certificates
+    description: "EcoFrame is a sustainable photo frame crafted from recycled wood. Minimalist design complements any decor."
+    details:
+      Size: "20 × 25 cm"
+      Weight: "350 g"
+      Material: "Recycled wood"
+      Color: "Natural brown"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled wood
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it stand on a desk?"
+        answer: "Yes, includes a fold-out stand."
+      - question: "Can it be hung on a wall?"
+        answer: "Yes, comes with hooks."
+
+  - id: greenview
+    title: "GreenView Bamboo Photo Frame"
+    subtitle: "Eco-friendly bamboo frame for photos and prints"
+    categories: [Recycled Bamboo, Home Decor]
+    images: ["images/greenview-1.jpg", "images/greenview-2.jpg"]
+    highlights:
+      - Made from recycled bamboo
+      - Lightweight and elegant
+      - Plastic-free packaging
+      - Perfect for displaying memories or art
+    description: "GreenView is an eco-conscious photo frame made from bamboo. Combines durability with sustainability for stylish decor."
+    details:
+      Size: "18 × 24 cm"
+      Weight: "300 g"
+      Material: "Recycled bamboo"
+      Color: "Light bamboo"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled bamboo
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can it hold landscape and portrait photos?"
+        answer: "Yes"
+      - question: "Is it suitable for outdoor use?"
+        answer: "No, indoor use only."
+
+  # Wrapping Papers
+  - id: ecowrap-floral
+    title: "EcoWrap Floral Design"
+    subtitle: "Recycled paper wrapping sheet with floral patterns"
+    categories: [Recycled Paper, Gift Wrap]
+    images: ["images/ecowrap-floral-1.jpg", "images/ecowrap-floral-2.jpg"]
+    highlights:
+      - Made from 100% recycled paper
+      - Vibrant floral design
+      - Plastic-free packaging
+      - Ideal for gifts, crafts, and decoration
+    description: "EcoWrap is a sustainable wrapping paper made from recycled materials. Features beautiful floral prints, perfect for wrapping gifts."
+    details:
+      Size: "70 × 50 cm"
+      Weight: "60 g"
+      Material: "Recycled paper"
+      Color: "Multicolor floral"
+      Made_in: "Nepal"
+    sustainability:
+      - 100% recycled paper
+      - Fully recyclable and biodegradable
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I use tape on it?"
+        answer: "Yes, standard tape works."
+      - question: "Is it suitable for printing?"
+        answer: "Not recommended."
+
+  - id: greenwrap-kraft
+    title: "GreenWrap Kraft Sheet"
+    subtitle: "Eco-friendly kraft paper wrapping sheet"
+    categories: [Recycled Paper, Gift Wrap]
+    images: ["images/greenwrap-kraft-1.jpg", "images/greenwrap-kraft-2.jpg"]
+    highlights:
+      - Made from 100% recycled kraft paper
+      - Minimalist and natural design
+      - Plastic-free packaging
+      - Perfect for gifts, crafts, or DIY projects
+    description: "GreenWrap is an eco-conscious kraft wrapping paper sheet. Simple, sturdy, and versatile for sustainable gift wrapping."
+    details:
+      Size: "70 × 50 cm"
+      Weight: "55 g"
+      Material: "Recycled kraft paper"
+      Color: "Natural brown"
+      Made_in: "Nepal"
+    sustainability:
+      - Fully recyclable and biodegradable
+      - Plastic-free packaging
+    shipping: "Ships in 2–3 business days, 30-day returns accepted"
+    faqs:
+      - question: "Can I write on it?"
+        answer: "Yes, suitable for pens and markers."
+      - question: "Is it suitable for wet wrapping?"
+        answer: "No, keep dry."

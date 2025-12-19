@@ -1,0 +1,43 @@
+---
+title: "EcoGem Recycled Jewelry Box"
+subtitle: "Elegant jewelry box made from recycled materials"
+categories: [Recycled Cardboard, Jewelry Boxes]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Jewelry box closed](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Jewelry box open](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled cardboard  
+- Soft inner lining for protection  
+- Plastic-free packaging  
+- Ideal for rings, necklaces, and small accessories
+
+## 📝 Description
+EcoGem is a stylish, eco-friendly jewelry box made from recycled cardboard and lined with soft cotton.  
+Perfect for gifting or storing delicate jewelry while caring for the environment.
+
+## 📐 Item Details
+- **Size:** 10 × 10 × 5 cm | **Weight:** 150 g  
+- **Material:** Recycled cardboard & cotton lining | **Color:** Kraft brown  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled materials  
+- Fully recyclable and biodegradable  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can it hold multiple rings?** Yes, fits several rings or small necklaces.  
+**Is the lining removable?** No, sewn in for protection.

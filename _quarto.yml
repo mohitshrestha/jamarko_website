@@ -28,26 +28,26 @@ website:
         href: pages\customizations.qmd
       - text: Shop
         menu:
+          - text: All Categories
+            href: shop.qmd
           - text: Notebooks
-            href: shop\notebooks.qmd
+            href: shop\notebooks\index.qmd
           - text: Greeting cards
-            href: shop\greetingcards.qmd
+            href: shop\greetingcards\index.qmd
           - text: Paper bags
-            href: shop\paperbags.qmd
+            href: shop\paperbags\index.qmd
           - text: Photo frames
-            href: shop\photoframes.qmd
+            href: shop\photoframes\index.qmd
           - text: Lampshades
-            href: shop\lampshades.qmd
+            href: shop\lampshades\index.qmd
           - text: Wrapping papers
-            href: shop\wrappingpapers.qmd
+            href: shop\wrappingpapers\index.qmd
           - text: Boxes
-            href: shop\boxes.qmd
+            href: shop\boxes\index.qmd
           - text: Jewelry boxes
-            href: shop\jewelryboxes.qmd
+            href: shop\jewelryboxes\index.qmd
           - text: Pencils
-            href: shop\pencils.qmd
-      - text: Blog
-        href: blog.qmd
+            href: shop\pencils\index.qmd
       - text: About
         menu:
           - text: About Us

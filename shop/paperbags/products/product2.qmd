@@ -1,0 +1,43 @@
+---
+title: "GreenTote Recycled Shopping Bag"
+subtitle: "Eco-friendly reusable paper tote bag"
+categories: [Recycled Paper, Bags]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Paper bag front](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Paper bag side](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from recycled paper and reinforced handles  
+- Plastic-free packaging  
+- Lightweight and foldable  
+- Ideal for shopping, gifts, or daily use
+
+## 📝 Description
+GreenTote is a durable, eco-conscious paper tote made from recycled materials.  
+Designed for convenience and sustainability, it’s perfect for everyday carrying needs.
+
+## 📐 Item Details
+- **Size:** 30 × 12 × 38 cm | **Weight:** 90 g  
+- **Material:** Recycled paper | **Color:** Natural kraft  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled paper  
+- Fully recyclable and biodegradable  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can I reuse it multiple times?** Yes, it is durable for repeated use.  
+**Can it hold liquids?** No, avoid liquids to prevent damage.

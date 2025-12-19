@@ -1,0 +1,44 @@
+---
+title: "GreenStore Collapsible Gift Box"
+subtitle: "Eco-friendly gift box made from recycled materials"
+categories: [Recycled Cardboard, Gift Packaging]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Gift box closed](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Gift box open](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled cardboard  
+- Collapsible for easy storage  
+- Plastic-free packaging  
+- Perfect for gifts, crafts, or storage
+
+## 📝 Description
+GreenStore is a versatile, eco-friendly gift box crafted from recycled cardboard.  
+It folds flat when not in use, saving space, and is strong enough to hold small to medium items.  
+
+## 📐 Item Details
+- **Size:** 25 × 25 × 10 cm | **Weight:** 250 g  
+- **Material:** Recycled cardboard | **Color:** Kraft brown  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled cardboard  
+- Fully recyclable, biodegradable, and plastic-free  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- Plastic-free packaging  
+- 30-day returns accepted
+
+## ❓ FAQs
+**Can it hold fragile items?** Yes, but add padding for fragile items.  
+**Is it reusable?** Yes, can be reused multiple times.

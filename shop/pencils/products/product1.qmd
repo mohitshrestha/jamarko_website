@@ -1,0 +1,43 @@
+---
+title: "EcoWrite Recycled Pencil"
+subtitle: "Sustainable pencil made from recycled wood"
+categories: [Recycled Wood, Stationery]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Pencil close-up](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Pencil bundle](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled wood  
+- Smooth graphite for clean writing  
+- Non-toxic, eco-friendly materials  
+- Comes in a pack of 5
+
+## 📝 Description
+EcoWrite is a sustainable pencil crafted from recycled wood and natural graphite.  
+Ideal for writing, sketching, or drawing, it combines functionality with environmental responsibility.
+
+## 📐 Item Details
+- **Length:** 19 cm | **Diameter:** 0.7 cm  
+- **Material:** Recycled wood & graphite | **Color:** Natural wood  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled wood  
+- Fully biodegradable and non-toxic  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Are they sharpened?** Yes, pre-sharpened.  
+**Are they suitable for children?** Yes, non-toxic and safe.

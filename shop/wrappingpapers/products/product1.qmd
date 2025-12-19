@@ -1,0 +1,43 @@
+---
+title: "EcoWrap Floral Design"
+subtitle: "Recycled paper wrapping sheet with floral patterns"
+categories: [Recycled Paper, Gift Wrap]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Wrapping paper roll](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Wrapping paper pattern](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled paper  
+- Vibrant floral design  
+- Plastic-free packaging  
+- Ideal for gifts, crafts, and decoration
+
+## 📝 Description
+EcoWrap is a sustainable wrapping paper made from recycled materials.  
+It features beautiful floral prints, perfect for wrapping gifts while caring for the environment.
+
+## 📐 Item Details
+- **Size:** 70 × 50 cm | **Weight:** 60 g  
+- **Material:** Recycled paper | **Color:** Multicolor floral  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- 100% recycled paper  
+- Fully recyclable and biodegradable  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can I use tape on it?** Yes, standard tape works.  
+**Is it suitable for printing?** Not recommended.

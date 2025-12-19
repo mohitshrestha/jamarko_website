@@ -1,0 +1,43 @@
+---
+title: "EcoCarry Grocery Bag"
+subtitle: "Reusable paper bag made from recycled materials"
+categories: [Recycled Paper, Bags]
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## 🖼️ Product Photos
+![Paper bag front](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+![Paper bag side](../../../assets/media/images/logos_and_banners/logo.png){group="gallery"}
+
+## 💚 Highlights
+- Made from 100% recycled paper  
+- Strong and durable for groceries  
+- Plastic-free and biodegradable  
+- Foldable for easy storage
+
+## 📝 Description
+EcoCarry is a sustainable grocery bag crafted from recycled paper.  
+Lightweight yet strong, it is perfect for carrying groceries, lunch, or everyday items.
+
+## 📐 Item Details
+- **Size:** 35 × 15 × 40 cm | **Weight:** 100 g  
+- **Material:** Recycled paper | **Color:** Kraft brown  
+- **Made in:** Nepal
+
+## ♻️ Sustainability
+- Fully recyclable and biodegradable  
+- Plastic-free packaging  
+
+## 🚚 Shipping & Returns
+- Ships in 2–3 business days  
+- 30-day returns accepted  
+
+## ❓ FAQs
+**Can it carry heavy items?** Yes, up to 5 kg.  
+**Is it waterproof?** No, avoid prolonged contact with water.
