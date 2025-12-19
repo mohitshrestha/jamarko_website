@@ -1,9 +1,20 @@
 # Jamarko — Official Website
 
-![Jamarko Recycled Paper](assets\media\images\logos_and_banners\jamarko_banner.jpg){fig-alt="Jamarko Recycled Paper."}
+![](assets\media\images\logos_and_banners\jamarko_banner.jpg){fig-alt="Jamarko Banner."}
 
-<p style="text-align:center;">Jamarko - Paper recycling in Kathmandu, Nepal. \| Since 2001 \| Recycled paper & products.</p>
-<p style="text-align:center;">📧 [jamarko\@gmail.com](mailto:jamarko@gmail.com?Subject=Hello%20from%20Jamarko%20Website) ☎️ [+977-1-4951050](tel:+977-1-4951050) Samakhusi Marg, Galkopakha, Kathmandu, Nepal.</p>
+🛍️ **Visit Us:**
+
+📍 Samakhusi Marga, Galkopakha, Kathmandu, 44600, Nepal
+
+📞 **Contact:**  
+📧 <a href="mailto:jamarko@gmail.com?Subject=Hello%20from%20Jamarko%20Website" target="_top">jamarko@gmail.com</a>
+📱 <a href="tel:+977-1-4951050" target="_top">+977-1-4951050</a> | ☎️ <a href="tel:+977-1-4951050" target="_top">+977-1-4951050</a>
+
+---
+
+Jamarko - Paper recycling in Kathmandu, Nepal. | Since 2001 | Recycled paper & products.
+
+---
 
 Jamarko was established in 2001 as a small cottage industry with the view of contributing towards environmental conservation and to provide employment to the underprivileged, especially women.
 
