@@ -1,0 +1,6 @@
+---
+title: "Lokta"
+---
+
+![Jamarko Lokta Paper](..\assets\media\images\pages\lokta\lokta.jpg){fig-alt="Jamarko Lokta Paper Products."}
+

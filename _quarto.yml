@@ -1,0 +1,78 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jamarko"
+  site-url: https://jamarko.com.np
+  google-analytics: "G-PBPC8ZSXZC"
+  image: assets\media\images\logos_and_banners\logo.png
+  favicon: assets\media\images\logos_and_banners\logo.png
+  twitter-card: true
+  navbar:
+    title: false
+    logo: assets\media\images\logos_and_banners\logo.png
+    logo-alt: Jamarko
+    pinned: true
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Recycled
+        href: pages\recycled.qmd
+      - text: Upcycled
+        href: pages\upcycled.qmd
+      - text: Lokta
+        href: pages\lokta.qmd
+      - text: Customizations
+        href: pages\customizations.qmd
+      - text: Shop
+        menu:
+          - text: Notebooks
+            href: shop\notebooks.qmd
+          - text: Greeting cards
+            href: shop\greetingcards.qmd
+          - text: Paper bags
+            href: shop\paperbags.qmd
+          - text: Photo frames
+            href: shop\photoframes.qmd
+          - text: Lampshades
+            href: shop\lampshades.qmd
+          - text: Wrapping papers
+            href: shop\wrappingpapers.qmd
+          - text: Boxes
+            href: shop\boxes.qmd
+          - text: Jewelry boxes
+            href: shop\jewelryboxes.qmd
+          - text: Pencils
+            href: shop\pencils.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: About
+        menu:
+          - text: About Us
+            href: about.qmd
+          - text: Our Paper
+            href: pages\ourpaper.qmd
+          # - text: Our Team
+          #   href:  ourteam.qmd
+      - text: Contact Us
+        href: contactus.qmd
+    right:
+      - icon: rss
+        href: index.xml
+  page-footer:
+    center:
+      - text: Copyright © 2001-<script>document.write( new Date().getFullYear() );</script>&nbsp;<a href="https://www.jamarko.com.np" target="_top">Jamarko</a>. All rights reserved. <br>Designed by <a href="https://www.mohitshrestha.com.np" target="_top">Mohit Shrestha</a>.
+
+format:
+  html:
+    page-layout: full
+    theme:
+      - cosmo
+      - brand
+    css: /assets/css/styles.css # a user-defined customization
+    toc: false
+
+
+

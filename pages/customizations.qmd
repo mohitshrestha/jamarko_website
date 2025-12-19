@@ -1,0 +1,25 @@
+---
+title: "Jamarko Customizations"
+toc: true
+toc-depth: 4
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+  #css-class: "my-css-class"
+---
+
+## Product Tags
+
+![](..\assets\media\images\pages\customizations\ekadesh.jpg){group="customizations-product-tags" fig-alt="Jamarko Product Tags." width="25%" height="25%"}
+
+![](..\assets\media\images\pages\customizations\kaapa.jpg){group="customizations-product-tags" fig-alt="Jamarko Product Tags." width="25%" height="25%"}
+
+![](..\assets\media\images\pages\customizations\kama.jpg){group="customizations-product-tags" fig-alt="Jamarko Product Tags." width="25%" height="25%"}
+
+## Coasters
+
+![](..\assets\media\images\pages\customizations\coaster.jpg){group="customizations-coasters" fig-alt="Jamarko Costers." width="25%" height="25%"}
+
+![](..\assets\media\images\pages\customizations\coasters.jpg){group="customizations-coasters" fig-alt="Jamarko Costers." width="25%" height="25%"}

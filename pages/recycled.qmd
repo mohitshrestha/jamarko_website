@@ -1,0 +1,6 @@
+---
+title: "Recycled"
+---
+
+![Jamarko Recycled Paper](..\assets\media\images\pages\recycled\recycled.jpg){fig-alt="Jamarko Recycled Paper Products."}
+

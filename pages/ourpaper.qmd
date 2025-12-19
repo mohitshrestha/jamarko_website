@@ -1,0 +1,16 @@
+---
+title: "Learn about our paper"
+---
+
+![Jamarko Recycled Paper](..\assets\media\images\pages\ourpaper\recyled_paper_1.jpg){fig-alt="Jamarko Recycled Paper."}
+
+Recycle means to treat or process waste or used materials to make it suitable for reuse. At Jamarko, we collect waste paper from various places which are sorted out, shredded into small pieces, and soaked overnight. The soaked paper pieces are then mixed to form a gooey pulp, which then is strained, and dried into sheets of paper in the sun. By recycling paper, we are making an effort to conserve the limited natural resources and the habitat of countless other beings.
+
+We promote the use of recycled paper and products to help people become a part of the solution - meeting their commitment to environment as our products made from 100% recycled paper helps conserve our environment, especially our green forests.
+
+![Jamarko paper products made from 100% recycled paper](..\assets\media\images\pages\ourpaper\recycled_paper_products.jpg){fig-alt="Jamarko Recycled."}
+
+Lokta paper is a traditional handmade Nepali paper made from Lokta fiber, native bast fiber renowned for its strength and durability. Lokta, botanically known as Daphne Bhoula or Daphne Papyracea is found at the altitude of 6500 feet to 9500 feet from the sea level, is an indigenous plant of Nepal. The Lokta shrub is actually strengthened by harvesting the crops. If left to grow on its own, the plant would eventually dry up. Lokta plant is harvested by cutting its stem at ground level ensuring its main roots are not destroyed, thus conserving the forest ecology.
+
+![Jamarko paper products made from Lokta paper](..\assets\media\images\pages\ourpaper\lokta_paper_products.jpg){fig-alt="Jamarko Lokta."}
+

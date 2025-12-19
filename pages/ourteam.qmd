@@ -1,0 +1,27 @@
+---
+title: "Our Team"
+---
+
+The New Way to **reduce.reuse.recycle.**
+
+Eco-friendly products for Friends of Environment.
+
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Aruna Lacoul" fig-align="center" width="150" height="150"}   | #### **Aruna Lacoul**   | \                           |
+|                                                                                                                    |                         | Founder                     |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Muna Shrestha" fig-align="center" width="150" height="150"}  | #### **Muna Shrestha**  | \                           |
+|                                                                                                                    |                         | Founder                     |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Kritica Lacoul" fig-align="center" width="150" height="150"} | #### **Kritica Lacoul** | \                           |
+|                                                                                                                    |                         | Founder of the showroom     |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Ritica Lacoul" fig-align="center" width="150" height="150"}  | #### **Ritica Lacoul**  | \                           |
+|                                                                                                                    |                         | Founder of the showroom     |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Mani Shrestha" fig-align="center" width="150" height="150"}  | #### **Mani Shrestha**  | \                           |
+|                                                                                                                    |                         | Consultant                  |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
+| ![](assets\media\images\logos_and_banners\logo.png){fig-alt="Mohit Shrestha" fig-align="center" width="150" height="150"} | #### **Mohit Shrestha** | \                           |
+|                                                                                                                    |                         | Web Designer and Consultant |
++--------------------------------------------------------------------------------------------------------------------+-------------------------+-----------------------------+
