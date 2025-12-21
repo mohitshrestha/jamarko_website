@@ -2,6 +2,7 @@
   {
     "listing": "/shop.html",
     "items": [
+      "/shop/notebooks/products/dhaka-notebook-w-refills.html",
       "/shop/paperbags/products/product1.html",
       "/shop/photoframes/products/product1.html",
       "/shop/jewelryboxes/products/product1.html",
@@ -19,7 +20,8 @@
       "/shop/paperbags/products/product2.html",
       "/shop/photoframes/products/product2.html",
       "/shop/greetingcards/products/product2.html",
-      "/shop/wrappingpapers/products/product2.html"
+      "/shop/wrappingpapers/products/product2.html",
+      "/shop/notebooks/products/recycled-paper-notebook-set.html"
     ]
   },
   {
@@ -67,8 +69,10 @@
   {
     "listing": "/shop/notebooks/index.html",
     "items": [
+      "/shop/notebooks/products/dhaka-notebook-w-refills.html",
       "/shop/notebooks/products/product2.html",
-      "/shop/notebooks/products/product1.html"
+      "/shop/notebooks/products/product1.html",
+      "/shop/notebooks/products/recycled-paper-notebook-set.html"
     ]
   },
   {

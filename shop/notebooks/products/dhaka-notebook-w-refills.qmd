@@ -1,0 +1,69 @@
+---
+title: "Dhaka Notebook with Refills"
+subtitle: "Eco-friendly notebook with traditional Nepali Dhaka fabric and 2 refills"
+categories: [Recycled Paper, Stationery, Journals]
+filters:
+  - carousel
+css: ../../../assets/css/styles-product-pages.css
+---
+
+::: {.grid}
+
+::: {.g-col-8}
+<!-- Insert Product Images below -->
+:::: {.carousel controls="true" indicators="true"  autoplay="true" duration=2000}
+
+:::: {.carousel-item image="../../../assets/media/images/products/img_2732.jpg" caption="Dhaka Notebook"}
+:::
+:::: {.carousel-item image="../../../assets/media/images/products/img_2734.jpg" caption="Dhaka Notebook Pages"}
+:::
+:::: {.carousel-item image="../../../assets/media/images/products/img_2741.jpg" caption="Dhaka Notebook Cover"}
+:::
+
+:::
+<!-- end carousel -->
+:::
+<!-- end g-col-8 -->
+
+::: {.g-col-4}
+<!-- Product Details Section -->
+<div class="product-details">
+  <p>
+    <span class="label" id="price-label">Price:</span>
+    <span class="value" id="price-value">रू 565.00</span>
+  </p>
+  <p>
+    <span class="label" id="availability-label">Availability:</span>
+    <span class="value" id="availability-value">Out of stock</span>
+  </p>
+  <p>
+    <span class="label" id="sku-label">SKU:</span>
+    <span class="value" id="sku-value">SERA6</span>
+  </p>
+</div>
+
+#### Specifications
+- 40 blank pages of 100% recycled paper
+- Approximately 6" x 4.5"
+- Ribbon page marker
+- Hardbound with traditional Nepali Dhaka fabric
+- Includes 2 refills
+:::
+<!-- end g-col-4 -->
+::: 
+<!-- end grid -->
+
+#### Description
+This multi-functional journal is made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. This special edition features traditional Nepali handmade fabric 'Dhaka', and comes with 2 refills.
+
+These notebooks are made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. Recycled paper is suitable for pencil and ballpoint pen.  They make a great diary, sketchbooks, notebooks, to-do lists, art books, journals, and gifts for any and everyone!
+
+- 40 blank pages of 100% recycled paper
+- Approximately 6" x 4.5"
+- Ribbon page marker
+- Hardbound with traditional Nepali Dhaka fabric
+- Includes 2 refills
+
+Our products are handmade; slight variation in color, size, shape and texture make our each piece unique and special.
+
+All our paper products are tree-free!

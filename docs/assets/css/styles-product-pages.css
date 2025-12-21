@@ -1,0 +1,55 @@
+/* --------------------------- */
+/* Product Details Section     */
+/* --------------------------- */
+
+.product-details {
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+/* Each row in product details */
+.product-details p {
+  margin: 2px 0;  /* tight spacing */
+  font-size: 1em;
+}
+
+/* Labels */
+.product-details .label {
+  font-weight: normal;
+  min-width: 90px;      /* aligns all labels */
+  display: inline-block;
+  color: #333;
+}
+
+/* Values */
+.product-details .value {
+  font-weight: normal;
+  color: #555;
+}
+
+/* Price value styling */
+#price-value {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #222;
+}
+
+/* SKU value styling */
+#sku-value {
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+/* --------------------------- */
+/* Responsive Layout           */
+/* --------------------------- */
+@media (max-width: 768px) {
+  .grid {
+    display: block;      /* stack columns vertically */
+  }
+  
+  .g-col-4 {
+    width: 100%;
+    margin-top: 20px;    /* spacing between sections */
+  }
+}
