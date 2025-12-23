@@ -33,21 +33,23 @@ website:
           - text: Notebooks
             href: shop\notebooks\index.qmd
           - text: Greeting cards
-            href: shop\greetingcards\index.qmd
+            href: shop\greeting-cards\index.qmd
           - text: Paper bags
-            href: shop\paperbags\index.qmd
+            href: shop\paper-bags\index.qmd
           - text: Photo frames
-            href: shop\photoframes\index.qmd
+            href: shop\photo-frames\index.qmd
           - text: Lampshades
             href: shop\lampshades\index.qmd
           - text: Wrapping papers
-            href: shop\wrappingpapers\index.qmd
+            href: shop\wrapping-papers\index.qmd
           - text: Boxes
             href: shop\boxes\index.qmd
           - text: Jewelry boxes
-            href: shop\jewelryboxes\index.qmd
+            href: shop\jewelry-boxes\index.qmd
           - text: Pencils
             href: shop\pencils\index.qmd
+          - text: Uncategorized
+            href: shop\uncategorized\index.qmd
       - text: About
         menu:
           - text: About Us

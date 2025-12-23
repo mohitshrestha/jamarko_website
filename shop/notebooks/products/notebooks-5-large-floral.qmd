@@ -1,0 +1,105 @@
+---
+title: "Notebooks Product"
+subtitle: "Buy premium notebooks online"
+categories: "notebooks"
+image: "https://placehold.co/600x600?text=nb005-large-floral+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=nb005-large-floral+1"
+        alt="notebooks image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb005-large-floral+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb005-large-floral+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb005-large-floral+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb005-large-floral+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.6 (51 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">A$38.01</span>
+      </div>
+
+      <p class="availability">
+        Availability: Backorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-005-large-floral
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 8 x 9 x 9 in - Weight: 4.06 lb - Options: size:large | pattern:floral - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-5-large-floral" data-sku="nb-005-large-floral" data-price="38.01">size:large | pattern:floral</option>
+<option value="notebooks-5-large-plain" data-sku="nb-005-large-plain" data-price="39.44">size:large | pattern:plain</option>
+<option value="notebooks-5-medium-floral" data-sku="nb-005-medium-floral" data-price="40.53">size:medium | pattern:floral</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="nb-005-large-floral"
+        data-price="<span class="price">A$38.01</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality notebooks with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 17 x 20 x 4 in</li>
+  <li><strong>Weight:</strong> 2.27 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$4.87</li>
+  <li><strong>Delivery Time:</strong> 2 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

@@ -1,0 +1,105 @@
+---
+title: "Pencils Product"
+subtitle: "Buy premium pencils online"
+categories: "pencils"
+image: "https://placehold.co/600x600?text=ps013-wood-glossy+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=ps013-wood-glossy+1"
+        alt="pencils image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps013-wood-glossy+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.9 (253 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$4.30</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-013-wood-glossy
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 18 x 19 x 8 in - Weight: 0.79 lb - Options: material:wood | finish:glossy - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-13-leather-matte" data-sku="ps-013-leather-matte" data-price="4.94">material:leather | finish:matte</option>
+<option value="pencils-13-wood-glossy" data-sku="ps-013-wood-glossy" data-price="4.3">material:wood | finish:glossy</option>
+<option value="pencils-13-paper-textured" data-sku="ps-013-paper-textured" data-price="3.83">material:paper | finish:textured</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="ps-013-wood-glossy"
+        data-price="<span class="price">$4.30</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality pencils with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 8 x 16 x 1 in</li>
+  <li><strong>Weight:</strong> 8.44 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> $5.79</li>
+  <li><strong>Delivery Time:</strong> 12 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

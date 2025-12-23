@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Jamarko</title>
+<link>https://jamarko.com.np/shop/wrapping-papers/</link>
+<atom:link href="https://jamarko.com.np/shop/wrapping-papers/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png</url>
+<title>Jamarko</title>
+<link>https://jamarko.com.np/shop/wrapping-papers/</link>
+<height>51</height>
+<width>111</width>
+</image>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Tue, 23 Dec 2025 13:07:21 GMT</lastBuildDate>
+<item>
+  <title>Wrapping_Papers Product</title>
+  <link>https://jamarko.com.np/shop/wrapping-papers/products/wrapping-papers-10.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=wp010+1" alt="wrapping_papers image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=wp010+1" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=wp010+2" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=wp010+3" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=wp010+4" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=wp010+5" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Wrapping_Papers Product</h1>
+      <p class="category">wrapping_papers</p>
+
+      <div class="rating">
+        ⭐ 4.8 (105 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€16,79</span>
+      </div>
+
+      <p class="availability">
+        Availability: Out of Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: wp-010
+      </p>
+
+      <p class="short-description">
+        High quality wrapping papers
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 7 x 13 x 7 in - Weight: 12.88 lb - High-quality wrapping papers product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="wp-010" data-price="<span class=" price"="">€16,79"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality wrapping papers with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 10 x 13 x 9 in
+</li>
+<li>
+<strong>Weight:</strong> 4.64 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €13,78
+</li>
+<li>
+<strong>Delivery Time:</strong> 9 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>wrapping_papers</category>
+  <guid>https://jamarko.com.np/shop/wrapping-papers/products/wrapping-papers-10.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:21 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=wp010+1" medium="image"/>
+</item>
+</channel>
+</rss>

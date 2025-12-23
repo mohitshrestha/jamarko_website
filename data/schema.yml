@@ -1,0 +1,31 @@
+products:
+  - product_id: string
+  - product_name: string
+  - sku: string
+  - product_category: string
+  - price: number
+  - currency: string
+  - quantity_available: integer
+  - product_description: string
+  - product_images: string
+  - product_url_slug: string
+  - stock_availability_status: string
+  - shipping_cost: string
+  - shipping_time_eta: string
+  - shipping_regions: string
+  - meta_title: string
+  - meta_description: string
+  - primary_keyword: string
+  - image_alt_text: string
+  - product_variants:
+      type: string
+      description: "Pipe-delimited variant attributes, e.g. size:a5|color:black"
+  - product_rating: number
+  - review_count: integer
+  - discount_price: number
+  - original_price: number
+  - return_policy: string
+  - product_dimensions: string
+  - product_weight: string
+  - stock_location: string
+  - supplier_name: string

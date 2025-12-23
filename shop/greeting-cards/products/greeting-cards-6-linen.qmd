@@ -1,0 +1,105 @@
+---
+title: "Greeting_Cards Product"
+subtitle: "Buy premium greeting_cards online"
+categories: "greeting_cards"
+image: "https://placehold.co/600x600?text=gc006-linen+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=gc006-linen+1"
+        alt="greeting_cards image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=gc006-linen+1" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc006-linen+2" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc006-linen+3" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc006-linen+4" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Greeting_Cards Product</h1>
+      <p class="category">greeting_cards</p>
+
+      <div class="rating">
+        ⭐ 4.2 (104 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€4,49</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: gc-006-linen
+      </p>
+
+      <p class="short-description">
+        High quality greeting cards
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 8 x 14 x 3 in - Weight: 9.99 lb - Options: material:linen - High-quality greeting cards product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="greeting-cards-6-leather" data-sku="gc-006-leather" data-price="5.32">material:leather</option>
+<option value="greeting-cards-6-linen" data-sku="gc-006-linen" data-price="4.49">material:linen</option>
+<option value="greeting-cards-6-paper" data-sku="gc-006-paper" data-price="4.18">material:paper</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="gc-006-linen"
+        data-price="<span class="price">€4,49</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality greeting cards with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 12 x 16 x 5 in</li>
+  <li><strong>Weight:</strong> 6.19 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €9,04</li>
+  <li><strong>Delivery Time:</strong> 2 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

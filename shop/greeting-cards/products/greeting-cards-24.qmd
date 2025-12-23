@@ -1,0 +1,99 @@
+---
+title: "Greeting_Cards Product"
+subtitle: "Buy premium greeting_cards online"
+categories: "greeting_cards"
+image: "https://placehold.co/600x600?text=gc024+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=gc024+1"
+        alt="greeting_cards image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=gc024+1" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc024+2" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Greeting_Cards Product</h1>
+      <p class="category">greeting_cards</p>
+
+      <div class="rating">
+        ⭐ 4.4 (215 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">A$13.12</span>
+      </div>
+
+      <p class="availability">
+        Availability: Preorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: gc-024
+      </p>
+
+      <p class="short-description">
+        High quality greeting cards
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 12 x 9 x 10 in - Weight: 11.06 lb - High-quality greeting cards product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="gc-024"
+        data-price="<span class="price">A$13.12</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality greeting cards with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 15 x 7 x 5 in</li>
+  <li><strong>Weight:</strong> 2.99 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$14.95</li>
+  <li><strong>Delivery Time:</strong> 13 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

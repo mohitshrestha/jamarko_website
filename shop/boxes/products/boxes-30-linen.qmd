@@ -1,0 +1,103 @@
+---
+title: "Boxes Product"
+subtitle: "Buy premium boxes online"
+categories: "boxes"
+image: "https://placehold.co/600x600?text=bx030-linen+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=bx030-linen+1"
+        alt="boxes image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx030-linen+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bx030-linen+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.3 (197 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">€9,57</span><span class="price-original">€11,02</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-030-linen
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 9 x 6 x 2 in - Weight: 8.36 lb - Options: material:linen - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-30-metal" data-sku="bx-030-metal" data-price="11.59">material:metal</option>
+<option value="boxes-30-linen" data-sku="bx-030-linen" data-price="11.02">material:linen</option>
+<option value="boxes-30-fabric" data-sku="bx-030-fabric" data-price="11.05">material:fabric</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="bx-030-linen"
+        data-price="<span class="price-discount">€9,57</span><span class="price-original">€11,02</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality boxes with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 19 x 9 x 9 in</li>
+  <li><strong>Weight:</strong> 2.48 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €5,85</li>
+  <li><strong>Delivery Time:</strong> 4 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

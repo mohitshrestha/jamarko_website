@@ -1,0 +1,105 @@
+---
+title: "Notebooks Product"
+subtitle: "Buy premium notebooks online"
+categories: "notebooks"
+image: "https://placehold.co/600x600?text=nb026-a5-white+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=nb026-a5-white+1"
+        alt="notebooks image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb026-a5-white+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb026-a5-white+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb026-a5-white+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb026-a5-white+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.7 (255 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€18,38</span>
+      </div>
+
+      <p class="availability">
+        Availability: Preorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-026-a5-white
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 20 x 13 x 7 in - Weight: 14.27 lb - Options: size:a5 | color:white - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-26-a5-green" data-sku="nb-026-a5-green" data-price="19.06">size:a5 | color:green</option>
+<option value="notebooks-26-a5-white" data-sku="nb-026-a5-white" data-price="18.38">size:a5 | color:white</option>
+<option value="notebooks-26-small-blue" data-sku="nb-026-small-blue" data-price="23.36">size:small | color:blue</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="nb-026-a5-white"
+        data-price="<span class="price">€18,38</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality notebooks with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 19 x 18 x 7 in</li>
+  <li><strong>Weight:</strong> 1.88 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €3,51</li>
+  <li><strong>Delivery Time:</strong> 5 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

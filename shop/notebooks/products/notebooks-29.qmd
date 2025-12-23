@@ -1,0 +1,101 @@
+---
+title: "Notebooks Product"
+subtitle: "Buy premium notebooks online"
+categories: "notebooks"
+image: "https://placehold.co/600x600?text=nb029+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=nb029+1"
+        alt="notebooks image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb029+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb029+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb029+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb029+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.9 (279 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">A$26.16</span>
+      </div>
+
+      <p class="availability">
+        Availability: Preorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-029
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 13 x 8 x 2 in - Weight: 2.47 lb - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="nb-029"
+        data-price="<span class="price">A$26.16</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality notebooks with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 20 x 17 x 3 in</li>
+  <li><strong>Weight:</strong> 7.13 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$7.33</li>
+  <li><strong>Delivery Time:</strong> 10 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

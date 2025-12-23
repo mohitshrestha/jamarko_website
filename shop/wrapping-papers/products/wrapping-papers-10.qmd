@@ -1,0 +1,102 @@
+---
+title: "Wrapping_Papers Product"
+subtitle: "Buy premium wrapping_papers online"
+categories: "wrapping_papers"
+image: "https://placehold.co/600x600?text=wp010+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=wp010+1"
+        alt="wrapping_papers image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=wp010+1" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=wp010+2" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=wp010+3" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=wp010+4" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=wp010+5" class="thumbnail" alt="wrapping_papers image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Wrapping_Papers Product</h1>
+      <p class="category">wrapping_papers</p>
+
+      <div class="rating">
+        ⭐ 4.8 (105 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€16,79</span>
+      </div>
+
+      <p class="availability">
+        Availability: Out of Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: wp-010
+      </p>
+
+      <p class="short-description">
+        High quality wrapping papers
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 7 x 13 x 7 in - Weight: 12.88 lb - High-quality wrapping papers product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="wp-010"
+        data-price="<span class="price">€16,79</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality wrapping papers with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 10 x 13 x 9 in</li>
+  <li><strong>Weight:</strong> 4.64 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store B</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €13,78</li>
+  <li><strong>Delivery Time:</strong> 9 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

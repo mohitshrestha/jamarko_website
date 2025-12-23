@@ -17,392 +17,1174 @@
 <width>111</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 21 Dec 2025 04:42:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 13:06:32 GMT</lastBuildDate>
 <item>
-  <title>Dhaka Notebook with Refills</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/dhaka-notebook-w-refills.html</link>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-18-a4.html</link>
   <description><![CDATA[ 
 
 
 
 
-<div class="grid">
-<div class="g-col-8">
-<!-- Insert Product Images below -->
-<div id="quarto-carousel-1" class="carousel slide" data-bs-ride="true">
-<div class="carousel-indicators">
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="0" class=" active" aria-current="true" aria-label="Slide 1"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="1" class="" aria-label="Slide 2"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="2" class="" aria-label="Slide 3"></button>
-  
-</div>
-<div class="carousel-inner">
-<div class="carousel-item active" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2732.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2734.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook Pages</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2741.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook Cover</p>
-</div>
-</div>
-</div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="prev">
-      
-      <span class="visually-hidden">Previous</span>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb018-a4+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb018-a4+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018-a4+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.6 (279 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€26,00</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-018-a4
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 5 x 8 x 6 in - Weight: 4.95 lb - Options: size:a4 - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-18-large" data-sku="nb-018-large" data-price="22.3">size:large</option>
+<option value="notebooks-18-a4" data-sku="nb-018-a4" data-price="26.0">size:a4</option>
+<option value="notebooks-18-medium" data-sku="nb-018-medium" data-price="25.44">size:medium</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-018-a4" data-price="<span class=" price"="">€26,00"
+      &gt;
+        Add to Cart
       </button>
-    
-      <button class="carousel-control-next" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="next">
-      
-      <span class="visually-hidden">Next</span>
-      </button>
-    
-</div>
-<!-- end carousel -->
-</div>
-<!-- end g-col-8 -->
-<div class="g-col-4">
-<!-- Product Details Section -->
-<div class="product-details">
-<p>
-<span id="price-label" class="label">Price:</span> <span id="price-value" class="value">रू 565.00</span>
-</p>
-<p>
-<span id="availability-label" class="label">Availability:</span> <span id="availability-value" class="value">Out of stock</span>
-</p>
-<p>
-<span id="sku-label" class="label">SKU:</span> <span id="sku-value" class="value">SERA6</span>
-</p>
-</div>
-<section id="specifications" class="level4">
-<h4 class="anchored" data-anchor-id="specifications">Specifications</h4>
-<ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 6” x 4.5”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with traditional Nepali Dhaka fabric</li>
-<li>Includes 2 refills</li>
-</ul>
-</section>
-</div>
-<!-- end g-col-4 -->
-</div>
-<!-- end grid -->
-<section id="description" class="level4">
-<h4 class="anchored" data-anchor-id="description">Description</h4>
-<p>This multi-functional journal is made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. This special edition features traditional Nepali handmade fabric ‘Dhaka’, and comes with 2 refills.</p>
-<p>These notebooks are made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. Recycled paper is suitable for pencil and ballpoint pen. They make a great diary, sketchbooks, notebooks, to-do lists, art books, journals, and gifts for any and everyone!</p>
-<ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 6” x 4.5”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with traditional Nepali Dhaka fabric</li>
-<li>Includes 2 refills</li>
-</ul>
-<p>Our products are handmade; slight variation in color, size, shape and texture make our each piece unique and special.</p>
-<p>All our paper products are tree-free!</p>
+    </div>
 
-
-</section>
-
- ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <category>Journals</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/dhaka-notebook-w-refills.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:41 GMT</pubDate>
-</item>
-<item>
-  <title>EcoPath Minimal Notebook</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/product2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook cover"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook cover"></a></p>
-<figcaption>Notebook cover</figcaption>
-</figure>
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook pages"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook pages"></a></p>
-<figcaption>Notebook pages</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Compact and lightweight<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for journaling, notes, and planning</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoPath is a minimalist notebook made from recycled paper and cardboard.<br>
-Perfect for eco-conscious writers and students looking for a sustainable option.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> B6 (125 × 176 mm) | <strong>Pages:</strong> 90 lined<br>
+<li>
+<strong>Dimensions:</strong> 5 x 9 x 6 in
 </li>
-<li><strong>Paper Weight:</strong> 85 GSM | <strong>Cover:</strong> Recycled cardboard<br>
+<li>
+<strong>Weight:</strong> 1.46 lb
 </li>
-<li><strong>Color:</strong> Light brown | <strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled materials<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> €5,22
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I use gel pens?</strong> Yes, works well.<br>
-<strong>Is the cover durable?</strong> Yes, sturdy recycled cardboard cover.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/product2.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:41 GMT</pubDate>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-18-a4.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb018-a4+1" medium="image"/>
 </item>
 <item>
-  <title>ForestLeaf Spiral Notebook</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/product1.html</link>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-18-large.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook cover"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook cover"></a></p>
-<figcaption>Notebook cover</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb018-large+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb018-large+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018-large+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018-large+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.6 (169 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€22,30</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-018-large
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 18 x 15 x 8 in - Weight: 11.26 lb - Options: size:large - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-18-large" data-sku="nb-018-large" data-price="22.3">size:large</option>
+<option value="notebooks-18-a4" data-sku="nb-018-a4" data-price="26.0">size:a4</option>
+<option value="notebooks-18-medium" data-sku="nb-018-medium" data-price="25.44">size:medium</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-018-large" data-price="<span class=" price"="">€22,30"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook pages"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook pages"></a></p>
-<figcaption>Notebook pages</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% post-consumer recycled paper<br>
-</li>
-<li>Spiral-bound for easy page turning<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Perfect for notes, sketches, or journaling</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>ForestLeaf is a sustainable spiral notebook crafted from recycled paper.<br>
-Durable and lightweight, ideal for students, office, or personal journaling.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> A5 (148 × 210 mm) | <strong>Pages:</strong> 120 lined<br>
+<li>
+<strong>Dimensions:</strong> 9 x 4 x 9 in
 </li>
-<li><strong>Paper Weight:</strong> 80 GSM | <strong>Cover:</strong> Recycled cardboard<br>
+<li>
+<strong>Weight:</strong> 14.15 lb
 </li>
-<li><strong>Color:</strong> Natural beige | <strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled paper<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and eco-friendly packaging</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> €5,22
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I use pens and markers?</strong> Yes, works with pens and light markers.<br>
-<strong>Is it refillable?</strong> No, fixed pages.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:41 GMT</pubDate>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-18-large.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb018-large+1" medium="image"/>
 </item>
 <item>
-  <title>Recycled Paper Notebook Set</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/recycled-paper-notebook-set.html</link>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-18-medium.html</link>
   <description><![CDATA[ 
 
 
 
 
-<div class="grid">
-<div class="g-col-8">
-<!-- Insert Product Images below -->
-<div id="quarto-carousel-1" class="carousel carousel-dark slide" data-bs-ride="true">
-<div class="carousel-indicators">
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="0" class=" active" aria-current="true" aria-label="Slide 1"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="1" class="" aria-label="Slide 2"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="2" class="" aria-label="Slide 3"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="3" class="" aria-label="Slide 4"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="4" class="" aria-label="Slide 5"></button>
-  
-</div>
-<div class="carousel-inner">
-<div class="carousel-item active" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/blue-brick-with-flower.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Blue Brick with Flower</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/purple-foliage.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Purple Foliage</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/pink-hexagon-flower.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Pink Hexagon Flower</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/red-foliage.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Red Foliage</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/blue-and-golden-herringbone.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Blue and Golden Herringbone</p>
-</div>
-</div>
-</div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="prev">
-      
-      <span class="visually-hidden">Previous</span>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb018-medium+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb018-medium+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018-medium+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.7 (148 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€25,44</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-018-medium
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 3 x 6 x 3 in - Weight: 7.73 lb - Options: size:medium - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-18-large" data-sku="nb-018-large" data-price="22.3">size:large</option>
+<option value="notebooks-18-a4" data-sku="nb-018-a4" data-price="26.0">size:a4</option>
+<option value="notebooks-18-medium" data-sku="nb-018-medium" data-price="25.44">size:medium</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-018-medium" data-price="<span class=" price"="">€25,44"
+      &gt;
+        Add to Cart
       </button>
-    
-      <button class="carousel-control-next" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="next">
-      
-      <span class="visually-hidden">Next</span>
-      </button>
-    
+    </div>
+
+  </section>
 </div>
-<!-- end carousel -->
-</div>
-<!-- end g-col-8 -->
-<div class="g-col-4">
-<!-- Product Details Section -->
-<div class="product-details">
-<p>
-<span id="price-label" class="label">Price:</span> <span id="price-value" class="value">रू 760.00</span>
-</p>
-<p>
-<span id="availability-label" class="label">Availability:</span> <span id="availability-value" class="value">In stock</span>
-</p>
-<p>
-<span id="sku-label" class="label">SKU:</span> <span id="sku-value" class="value">RPNA5</span>
-</p>
-</div>
-<section id="specifications" class="level4">
-<h4 class="anchored" data-anchor-id="specifications">Specifications</h4>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 8.3” x 5.9” and 6” x 4.3”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with patterned Lokta cover</li>
-<li>Pen loop with upcycled newspaper pencil</li>
+<li>
+<strong>Dimensions:</strong> 18 x 10 x 3 in
+</li>
+<li>
+<strong>Weight:</strong> 4.1 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €5,22
+</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
 </div>
-<!-- end g-col-4 -->
-</div>
-<!-- end grid -->
-<section id="description" class="level4">
-<h4 class="anchored" data-anchor-id="description">Description</h4>
-<p>Hand crafted in Nepal, this set of multi-functional journals is made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs.</p>
-<ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 8.3” x 5.9”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with patterned Lokta cover</li>
-<li>Pen loop with upcycled newspaper pencil</li>
-</ul>
-<p>The size of the journal makes it a perfect diary, notebook or a gift for your loved ones. Recycled paper is suitable for pencil and ballpoint pen.</p>
-<p>Our products are handmade; slight variation in color, size, shape and texture make our each piece unique and special.</p>
-<p>All our paper products are tree-free!</p>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <category>Journals</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/recycled-paper-notebook-set.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:41 GMT</pubDate>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-18-medium.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb018-medium+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-18.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb018+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb018+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb018+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.4 (241 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€23,26</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-018
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 17 x 11 x 6 in - Weight: 11.72 lb - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-18-large" data-sku="nb-018-large" data-price="22.3">size:large</option>
+<option value="notebooks-18-a4" data-sku="nb-018-a4" data-price="26.0">size:a4</option>
+<option value="notebooks-18-medium" data-sku="nb-018-medium" data-price="25.44">size:medium</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-018" data-price="<span class=" price"="">€23,26"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 18 x 7 x 1 in
+</li>
+<li>
+<strong>Weight:</strong> 2.26 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €5,22
+</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-18.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb018+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-26-a5-green.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb026-a5-green+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb026-a5-green+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-a5-green+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-a5-green+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.7 (32 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€19,06</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-026-a5-green
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 20 x 8 x 1 in - Weight: 8.27 lb - Options: size:a5 | color:green - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-26-a5-green" data-sku="nb-026-a5-green" data-price="19.06">size:a5 | color:green</option>
+<option value="notebooks-26-a5-white" data-sku="nb-026-a5-white" data-price="18.38">size:a5 | color:white</option>
+<option value="notebooks-26-small-blue" data-sku="nb-026-small-blue" data-price="23.36">size:small | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-026-a5-green" data-price="<span class=" price"="">€19,06"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 19 x 10 x 8 in
+</li>
+<li>
+<strong>Weight:</strong> 13.35 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €3,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-26-a5-green.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb026-a5-green+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-26-a5-white.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb026-a5-white+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb026-a5-white+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-a5-white+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-a5-white+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-a5-white+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.7 (255 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€18,38</span>
+      </div>
+
+      <p class="availability">
+        Availability: Preorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-026-a5-white
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 20 x 13 x 7 in - Weight: 14.27 lb - Options: size:a5 | color:white - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-26-a5-green" data-sku="nb-026-a5-green" data-price="19.06">size:a5 | color:green</option>
+<option value="notebooks-26-a5-white" data-sku="nb-026-a5-white" data-price="18.38">size:a5 | color:white</option>
+<option value="notebooks-26-small-blue" data-sku="nb-026-small-blue" data-price="23.36">size:small | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-026-a5-white" data-price="<span class=" price"="">€18,38"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 19 x 18 x 7 in
+</li>
+<li>
+<strong>Weight:</strong> 1.88 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €3,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-26-a5-white.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb026-a5-white+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-26-small-blue.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb026-small-blue+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb026-small-blue+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-small-blue+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026-small-blue+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.3 (15 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€23,36</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-026-small-blue
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 9 x 15 x 4 in - Weight: 3.17 lb - Options: size:small | color:blue - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-26-a5-green" data-sku="nb-026-a5-green" data-price="19.06">size:a5 | color:green</option>
+<option value="notebooks-26-a5-white" data-sku="nb-026-a5-white" data-price="18.38">size:a5 | color:white</option>
+<option value="notebooks-26-small-blue" data-sku="nb-026-small-blue" data-price="23.36">size:small | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-026-small-blue" data-price="<span class=" price"="">€23,36"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 13 x 18 x 5 in
+</li>
+<li>
+<strong>Weight:</strong> 2.92 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €3,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-26-small-blue.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb026-small-blue+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-26.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb026+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb026+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb026+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.3 (227 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€19,71</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-026
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 19 x 15 x 3 in - Weight: 11.99 lb - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-26-a5-green" data-sku="nb-026-a5-green" data-price="19.06">size:a5 | color:green</option>
+<option value="notebooks-26-a5-white" data-sku="nb-026-a5-white" data-price="18.38">size:a5 | color:white</option>
+<option value="notebooks-26-small-blue" data-sku="nb-026-small-blue" data-price="23.36">size:small | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-026" data-price="<span class=" price"="">€19,71"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 10 x 11 x 3 in
+</li>
+<li>
+<strong>Weight:</strong> 6.46 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €3,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-26.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb026+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-28-a4-black.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb028-a4-black+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb028-a4-black+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb028-a4-black+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.4 (17 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">€5,20</span><span class="price-original">€5,94</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-028-a4-black
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 7 x 20 x 4 in - Weight: 5.78 lb - Options: size:a4 | color:black - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-28-a5-black" data-sku="nb-028-a5-black" data-price="5.45">size:a5 | color:black</option>
+<option value="notebooks-28-a4-black" data-sku="nb-028-a4-black" data-price="5.94">size:a4 | color:black</option>
+<option value="notebooks-28-a4-blue" data-sku="nb-028-a4-blue" data-price="6.25">size:a4 | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-028-a4-black" data-price="<span class=" price-discount"="">€5,20<span class="price-original">€5,94</span>"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 6 x 10 x 3 in
+</li>
+<li>
+<strong>Weight:</strong> 8.35 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €14,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-28-a4-black.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb028-a4-black+1" medium="image"/>
+</item>
+<item>
+  <title>Notebooks Product</title>
+  <link>https://jamarko.com.np/shop/notebooks/products/notebooks-28-a4-blue.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=nb028-a4-blue+1" alt="notebooks image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb028-a4-blue+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=nb028-a4-blue+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.6 (216 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">€5,17</span><span class="price-original">€6,25</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-028-a4-blue
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 5 x 6 x 8 in - Weight: 7.95 lb - Options: size:a4 | color:blue - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-28-a5-black" data-sku="nb-028-a5-black" data-price="5.45">size:a5 | color:black</option>
+<option value="notebooks-28-a4-black" data-sku="nb-028-a4-black" data-price="5.94">size:a4 | color:black</option>
+<option value="notebooks-28-a4-blue" data-sku="nb-028-a4-blue" data-price="6.25">size:a4 | color:blue</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="nb-028-a4-blue" data-price="<span class=" price-discount"="">€5,17<span class="price-original">€6,25</span>"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality notebooks with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 12 x 5 x 10 in
+</li>
+<li>
+<strong>Weight:</strong> 12.41 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €14,51
+</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>notebooks</category>
+  <guid>https://jamarko.com.np/shop/notebooks/products/notebooks-28-a4-blue.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:32 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=nb028-a4-blue+1" medium="image"/>
 </item>
 </channel>
 </rss>

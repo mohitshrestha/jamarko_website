@@ -1,5 +1,5 @@
 ---
-title: "Pencils Catalog"
+title: "Pencils"
 listing:
   contents: "products"
   fields: [image, title, categories]

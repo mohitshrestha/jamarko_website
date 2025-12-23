@@ -17,166 +17,943 @@
 <width>111</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 21 Dec 2025 04:39:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 13:06:25 GMT</lastBuildDate>
 <item>
-  <title>EcoGlow Recycled Paper Lampshade</title>
-  <link>https://jamarko.com.np/shop/lampshades/products/product1.html</link>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-1-floral.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade front"></a></p>
-<figcaption>Lampshade front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls001-floral+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls001-floral+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001-floral+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001-floral+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.7 (243 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹22.95</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-001-floral
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 9 x 6 x 2 in - Weight: 3.34 lb - Options: pattern:floral - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-1-striped" data-sku="ls-001-striped" data-price="24.51">pattern:striped</option>
+<option value="lampshades-1-floral" data-sku="ls-001-floral" data-price="22.95">pattern:floral</option>
+<option value="lampshades-1-geometric" data-sku="ls-001-geometric" data-price="21.18">pattern:geometric</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-001-floral" data-price="<span class=" price"="">₹22.95"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade side"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade side"></a></p>
-<figcaption>Lampshade side</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Soft ambient lighting<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for desks, bedrooms, or living rooms</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoGlow is an eco-friendly lampshade made from recycled paper.<br>
-It diffuses light softly to create a warm, natural ambiance while reducing waste.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 25 × 25 × 20 cm | <strong>Weight:</strong> 400 g<br>
+<li>
+<strong>Dimensions:</strong> 20 x 12 x 6 in
 </li>
-<li><strong>Material:</strong> Recycled paper &amp; wire frame | <strong>Color:</strong> Natural cream<br>
+<li>
+<strong>Weight:</strong> 4.25 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled paper<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> ₹3.57
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 7 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it be used with LED bulbs?</strong> Yes, safe with LED bulbs.<br>
-<strong>Is it water-resistant?</strong> No, keep away from moisture.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Home Decor</category>
-  <guid>https://jamarko.com.np/shop/lampshades/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:39:09 GMT</pubDate>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-1-floral.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls001-floral+1" medium="image"/>
 </item>
 <item>
-  <title>GreenLight Bamboo Lampshade</title>
-  <link>https://jamarko.com.np/shop/lampshades/products/product2.html</link>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-1-geometric.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade front"></a></p>
-<figcaption>Lampshade front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls001-geometric+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls001-geometric+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001-geometric+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.3 (67 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹21.18</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-001-geometric
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 17 x 17 x 2 in - Weight: 13.94 lb - Options: pattern:geometric - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-1-striped" data-sku="ls-001-striped" data-price="24.51">pattern:striped</option>
+<option value="lampshades-1-floral" data-sku="ls-001-floral" data-price="22.95">pattern:floral</option>
+<option value="lampshades-1-geometric" data-sku="ls-001-geometric" data-price="21.18">pattern:geometric</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-001-geometric" data-price="<span class=" price"="">₹21.18"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade side"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade side"></a></p>
-<figcaption>Lampshade side</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from recycled paper and bamboo<br>
-</li>
-<li>Lightweight and durable<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Creates a warm, natural glow</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>GreenLight is a sustainable lampshade combining bamboo and recycled paper.<br>
-Perfect for eco-conscious home decor, it provides soft, pleasant lighting while being environmentally friendly.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 30 × 30 × 22 cm | <strong>Weight:</strong> 450 g<br>
+<li>
+<strong>Dimensions:</strong> 10 x 9 x 8 in
 </li>
-<li><strong>Material:</strong> Recycled paper &amp; bamboo | <strong>Color:</strong> Light brown<br>
+<li>
+<strong>Weight:</strong> 1.49 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>Bamboo and recycled paper materials<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> ₹3.57
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 7 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it be used outdoors?</strong> No, indoor use only.<br>
-<strong>Is it easy to clean?</strong> Dust lightly with a dry cloth.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Home Decor</category>
-  <guid>https://jamarko.com.np/shop/lampshades/products/product2.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:39:09 GMT</pubDate>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-1-geometric.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls001-geometric+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-1-striped.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls001-striped+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls001-striped+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001-striped+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.6 (137 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹24.51</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-001-striped
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 5 x 8 x 7 in - Weight: 8.83 lb - Options: pattern:striped - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-1-striped" data-sku="ls-001-striped" data-price="24.51">pattern:striped</option>
+<option value="lampshades-1-floral" data-sku="ls-001-floral" data-price="22.95">pattern:floral</option>
+<option value="lampshades-1-geometric" data-sku="ls-001-geometric" data-price="21.18">pattern:geometric</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-001-striped" data-price="<span class=" price"="">₹24.51"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 12 x 9 x 9 in
+</li>
+<li>
+<strong>Weight:</strong> 12.78 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> ₹3.57
+</li>
+<li>
+<strong>Delivery Time:</strong> 7 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-1-striped.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls001-striped+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls001+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls001+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001+4" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls001+5" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.7 (33 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹23.04</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-001
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 17 x 18 x 3 in - Weight: 1.82 lb - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-1-striped" data-sku="ls-001-striped" data-price="24.51">pattern:striped</option>
+<option value="lampshades-1-floral" data-sku="ls-001-floral" data-price="22.95">pattern:floral</option>
+<option value="lampshades-1-geometric" data-sku="ls-001-geometric" data-price="21.18">pattern:geometric</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-001" data-price="<span class=" price"="">₹23.04"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 10 x 18 x 3 in
+</li>
+<li>
+<strong>Weight:</strong> 3.63 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> ₹3.57
+</li>
+<li>
+<strong>Delivery Time:</strong> 7 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-1.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls001+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-17-blue-geometric.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls017-blue-geometric+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls017-blue-geometric+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-blue-geometric+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-blue-geometric+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.4 (216 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">$11.22</span><span class="price-original">$14.28</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-017-blue-geometric
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 12 x 5 x 1 in - Weight: 9.93 lb - Options: color:blue | pattern:geometric - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-17-blue-geometric" data-sku="ls-017-blue-geometric" data-price="14.28">color:blue | pattern:geometric</option>
+<option value="lampshades-17-green-geometric" data-sku="ls-017-green-geometric" data-price="13.19">color:green | pattern:geometric</option>
+<option value="lampshades-17-green-striped" data-sku="ls-017-green-striped" data-price="14.9">color:green | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-017-blue-geometric" data-price="<span class=" price-discount"="">$11.22<span class="price-original">$14.28</span>"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 20 x 6 x 6 in
+</li>
+<li>
+<strong>Weight:</strong> 13.29 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $10.28
+</li>
+<li>
+<strong>Delivery Time:</strong> 11 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-17-blue-geometric.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls017-blue-geometric+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-17-green-geometric.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls017-green-geometric+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls017-green-geometric+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+4" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.3 (147 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$13.19</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-017-green-geometric
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 7 x 10 x 5 in - Weight: 6.71 lb - Options: color:green | pattern:geometric - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-17-blue-geometric" data-sku="ls-017-blue-geometric" data-price="14.28">color:blue | pattern:geometric</option>
+<option value="lampshades-17-green-geometric" data-sku="ls-017-green-geometric" data-price="13.19">color:green | pattern:geometric</option>
+<option value="lampshades-17-green-striped" data-sku="ls-017-green-striped" data-price="14.9">color:green | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-017-green-geometric" data-price="<span class=" price"="">$13.19"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 11 x 12 x 10 in
+</li>
+<li>
+<strong>Weight:</strong> 7.77 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $10.28
+</li>
+<li>
+<strong>Delivery Time:</strong> 11 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-17-green-geometric.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls017-green-geometric+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-17-green-striped.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls017-green-striped+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls017-green-striped+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-striped+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-striped+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017-green-striped+4" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.5 (145 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$14.90</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-017-green-striped
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 19 x 6 x 4 in - Weight: 12.86 lb - Options: color:green | pattern:striped - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-17-blue-geometric" data-sku="ls-017-blue-geometric" data-price="14.28">color:blue | pattern:geometric</option>
+<option value="lampshades-17-green-geometric" data-sku="ls-017-green-geometric" data-price="13.19">color:green | pattern:geometric</option>
+<option value="lampshades-17-green-striped" data-sku="ls-017-green-striped" data-price="14.9">color:green | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-017-green-striped" data-price="<span class=" price"="">$14.90"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 10 x 14 x 3 in
+</li>
+<li>
+<strong>Weight:</strong> 4.16 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $10.28
+</li>
+<li>
+<strong>Delivery Time:</strong> 11 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-17-green-striped.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls017-green-striped+1" medium="image"/>
+</item>
+<item>
+  <title>Lampshades Product</title>
+  <link>https://jamarko.com.np/shop/lampshades/products/lampshades-17.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ls017+1" alt="lampshades image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls017+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ls017+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.8 (294 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$12.90</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-017
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 13 x 7 x 10 in - Weight: 4.8 lb - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-17-blue-geometric" data-sku="ls-017-blue-geometric" data-price="14.28">color:blue | pattern:geometric</option>
+<option value="lampshades-17-green-geometric" data-sku="ls-017-green-geometric" data-price="13.19">color:green | pattern:geometric</option>
+<option value="lampshades-17-green-striped" data-sku="ls-017-green-striped" data-price="14.9">color:green | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ls-017" data-price="<span class=" price"="">$12.90"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality lampshades with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 18 x 17 x 4 in
+</li>
+<li>
+<strong>Weight:</strong> 3.11 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $10.28
+</li>
+<li>
+<strong>Delivery Time:</strong> 11 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>lampshades</category>
+  <guid>https://jamarko.com.np/shop/lampshades/products/lampshades-17.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:25 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ls017+1" medium="image"/>
 </item>
 </channel>
 </rss>

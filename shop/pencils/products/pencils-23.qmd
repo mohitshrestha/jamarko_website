@@ -1,0 +1,105 @@
+---
+title: "Pencils Product"
+subtitle: "Buy premium pencils online"
+categories: "pencils"
+image: "https://placehold.co/600x600?text=ps023+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=ps023+1"
+        alt="pencils image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps023+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps023+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps023+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps023+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.6 (193 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$16.36</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-023
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 20 x 5 x 2 in - Weight: 4.28 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-23-plain" data-sku="ps-023-plain" data-price="17.29">pattern:plain</option>
+<option value="pencils-23-geometric" data-sku="ps-023-geometric" data-price="17.44">pattern:geometric</option>
+<option value="pencils-23-striped" data-sku="ps-023-striped" data-price="15.32">pattern:striped</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="ps-023"
+        data-price="<span class="price">CA$16.36</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality pencils with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 11 x 7 x 1 in</li>
+  <li><strong>Weight:</strong> 9.28 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> CA$12.36</li>
+  <li><strong>Delivery Time:</strong> 5 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

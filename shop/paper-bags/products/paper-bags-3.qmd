@@ -1,0 +1,106 @@
+---
+title: "Paper_Bags Product"
+subtitle: "Buy premium paper_bags online"
+categories: "paper_bags"
+image: "https://placehold.co/600x600?text=bag003+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=bag003+1"
+        alt="paper_bags image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bag003+1" class="thumbnail" alt="paper_bags image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bag003+2" class="thumbnail" alt="paper_bags image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bag003+3" class="thumbnail" alt="paper_bags image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bag003+4" class="thumbnail" alt="paper_bags image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bag003+5" class="thumbnail" alt="paper_bags image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Paper_Bags Product</h1>
+      <p class="category">paper_bags</p>
+
+      <div class="rating">
+        ⭐ 4.9 (156 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">रू5.00</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bag-003
+      </p>
+
+      <p class="short-description">
+        High quality paper bags
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 10 x 8 x 5 in - Weight: 7.69 lb - High-quality paper bags product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="paper-bags-3-a5-wood" data-sku="bag-003-a5-wood" data-price="4.96">size:a5 | material:wood</option>
+<option value="paper-bags-3-medium-leather" data-sku="bag-003-medium-leather" data-price="5.55">size:medium | material:leather</option>
+<option value="paper-bags-3-a4-fabric" data-sku="bag-003-a4-fabric" data-price="5.09">size:a4 | material:fabric</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="bag-003"
+        data-price="<span class="price">रू5.00</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality paper bags with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 15 x 10 x 7 in</li>
+  <li><strong>Weight:</strong> 1.74 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> रू3.27</li>
+  <li><strong>Delivery Time:</strong> 6 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

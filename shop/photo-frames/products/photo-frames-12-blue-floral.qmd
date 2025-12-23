@@ -1,0 +1,104 @@
+---
+title: "Photo_Frames Product"
+subtitle: "Buy premium photo_frames online"
+categories: "photo_frames"
+image: "https://placehold.co/600x600?text=pf012-blue-floral+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=pf012-blue-floral+1"
+        alt="photo_frames image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=pf012-blue-floral+1" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=pf012-blue-floral+2" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=pf012-blue-floral+3" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Photo_Frames Product</h1>
+      <p class="category">photo_frames</p>
+
+      <div class="rating">
+        ⭐ 4.8 (105 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€13,03</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: pf-012-blue-floral
+      </p>
+
+      <p class="short-description">
+        High quality photo frames
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 7 x 11 x 10 in - Weight: 5.63 lb - Options: color:blue | pattern:floral - High-quality photo frames product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="photo-frames-12-white-striped" data-sku="pf-012-white-striped" data-price="13.12">color:white | pattern:striped</option>
+<option value="photo-frames-12-brown-plain" data-sku="pf-012-brown-plain" data-price="16.05">color:brown | pattern:plain</option>
+<option value="photo-frames-12-blue-floral" data-sku="pf-012-blue-floral" data-price="13.03">color:blue | pattern:floral</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="pf-012-blue-floral"
+        data-price="<span class="price">€13,03</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality photo frames with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 18 x 5 x 10 in</li>
+  <li><strong>Weight:</strong> 8.3 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €3,05</li>
+  <li><strong>Delivery Time:</strong> 7 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

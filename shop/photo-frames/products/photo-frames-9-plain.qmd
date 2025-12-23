@@ -1,0 +1,104 @@
+---
+title: "Photo_Frames Product"
+subtitle: "Buy premium photo_frames online"
+categories: "photo_frames"
+image: "https://mohitshrestha.github.io/jamarko_website/assets/media/images/logos_and_banners/jamarko_banner.jpg"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://mohitshrestha.github.io/jamarko_website/assets/media/images/logos_and_banners/jamarko_banner.jpg"
+        alt="photo_frames image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://mohitshrestha.github.io/jamarko_website/assets/media/images/logos_and_banners/jamarko_banner.jpg" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://mohitshrestha.github.io/jamarko_website/assets/media/images/pages/upcycled/upcycled.jpg" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=pf009-plain+3" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Photo_Frames Product</h1>
+      <p class="category">photo_frames</p>
+
+      <div class="rating">
+        ⭐ 4.9 (214 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">A$19.76</span><span class="price-original">A$25.84</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: pf-009-plain
+      </p>
+
+      <p class="short-description">
+        High quality photo frames
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 7 x 12 x 1 in - Weight: 4.61 lb - Options: pattern:plain - High-quality photo frames product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="photo-frames-9-plain" data-sku="pf-009-plain" data-price="25.84">pattern:plain</option>
+<option value="photo-frames-9-floral" data-sku="pf-009-floral" data-price="25.82">pattern:floral</option>
+<option value="photo-frames-9-geometric" data-sku="pf-009-geometric" data-price="27.93">pattern:geometric</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="pf-009-plain"
+        data-price="<span class="price-discount">A$19.76</span><span class="price-original">A$25.84</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality photo frames with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 7 x 6 x 8 in</li>
+  <li><strong>Weight:</strong> 9.97 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store B</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$5.40</li>
+  <li><strong>Delivery Time:</strong> 8 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

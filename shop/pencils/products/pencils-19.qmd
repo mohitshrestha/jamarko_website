@@ -1,0 +1,102 @@
+---
+title: "Pencils Product"
+subtitle: "Buy premium pencils online"
+categories: "pencils"
+image: "https://placehold.co/600x600?text=ps019+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=ps019+1"
+        alt="pencils image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps019+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps019+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps019+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps019+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ps019+5" class="thumbnail" alt="pencils image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.5 (197 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">रू5.30</span>
+      </div>
+
+      <p class="availability">
+        Availability: Out of Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-019
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 15 x 15 x 4 in - Weight: 9.8 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="ps-019"
+        data-price="<span class="price">रू5.30</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality pencils with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 20 x 8 x 10 in</li>
+  <li><strong>Weight:</strong> 14.56 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> रू12.93</li>
+  <li><strong>Delivery Time:</strong> 9 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

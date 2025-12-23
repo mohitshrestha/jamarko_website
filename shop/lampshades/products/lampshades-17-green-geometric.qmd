@@ -1,0 +1,105 @@
+---
+title: "Lampshades Product"
+subtitle: "Buy premium lampshades online"
+categories: "lampshades"
+image: "https://placehold.co/600x600?text=ls017-green-geometric+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=ls017-green-geometric+1"
+        alt="lampshades image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ls017-green-geometric+1" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+2" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+3" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=ls017-green-geometric+4" class="thumbnail" alt="lampshades image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Lampshades Product</h1>
+      <p class="category">lampshades</p>
+
+      <div class="rating">
+        ⭐ 4.3 (147 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$13.19</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ls-017-green-geometric
+      </p>
+
+      <p class="short-description">
+        High quality lampshades
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 7 x 10 x 5 in - Weight: 6.71 lb - Options: color:green | pattern:geometric - High-quality lampshades product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="lampshades-17-blue-geometric" data-sku="ls-017-blue-geometric" data-price="14.28">color:blue | pattern:geometric</option>
+<option value="lampshades-17-green-geometric" data-sku="ls-017-green-geometric" data-price="13.19">color:green | pattern:geometric</option>
+<option value="lampshades-17-green-striped" data-sku="ls-017-green-striped" data-price="14.9">color:green | pattern:striped</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="ls-017-green-geometric"
+        data-price="<span class="price">$13.19</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality lampshades with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 11 x 12 x 10 in</li>
+  <li><strong>Weight:</strong> 7.77 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store B</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> $10.28</li>
+  <li><strong>Delivery Time:</strong> 11 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

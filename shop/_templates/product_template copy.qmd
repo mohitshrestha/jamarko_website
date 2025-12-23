@@ -1,0 +1,89 @@
+---
+title: "{{ product.meta_title }}"
+subtitle: "{{ product.meta_description }}"
+categories: "{{ product.primary_keyword }}"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+<section class="product-top">
+
+  <!-- Product Gallery -->
+  <div class="product-gallery" role="region" aria-label="Product image gallery">
+
+    <img
+      id="mainImage"
+      src="{{ product.main_image }}"
+      alt="{{ product.image_alt_text }}"
+      class="main-image"
+      loading="eager"
+      decoding="async"
+    />
+
+    <div class="carousel-wrapper">
+      <button class="carousel-arrow left">❮</button>
+      <div class="carousel" id="thumbnailCarousel">
+        {{ product.gallery_thumbnails }}
+      </div>
+      <button class="carousel-arrow right">❯</button>
+    </div>
+
+  </div>
+
+  <!-- Product Info -->
+  <div class="product-info">
+    <h1>{{ product.meta_title }}</h1>
+    <p class="category">{{ product.product_category }}</p>
+    <div class="quarto-categories">
+      <div class="quarto-category">{{ product.primary_keyword }}</div>
+    </div>
+
+    <div class="rating">⭐ {{ product.product_rating }}</div>
+    <div class="price-block">{{ product.price_html }}</div>
+
+    <p class="availability">{{ product.stock_text }}</p>
+    <p class="sku">SKU: {{ product.sku }}</p>
+
+    <p class="short-description">{{ product.product_short_description }}</p>
+
+    {{ product.variants_html }}
+
+    <button class="add-to-cart" data-sku="{{ product.sku }}" data-price="{{ product.price }}">Add to Cart</button>
+  </div>
+
+</section>
+</div>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <img id="lightboxImage" />
+</div>
+```
+::: {.tabset}
+
+## Description
+{{ product.product_description }}
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> {{ product.product_dimensions }}</li>
+  <li><strong>Weight:</strong> {{ product.product_weight }}</li>
+  <li><strong>Supplier:</strong> {{ product.supplier_name }}</li>
+  <li><strong>Stock Location:</strong> {{ product.stock_location }}</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> {{ product.shipping_cost }}</li>
+  <li><strong>Delivery Time:</strong> {{ product.shipping_time_eta }}</li>
+  <li><strong>Regions:</strong> {{ product.shipping_regions }}</li>
+  <li><strong>Return Policy:</strong> {{ product.return_policy }}</li>
+</ul>
+
+:::

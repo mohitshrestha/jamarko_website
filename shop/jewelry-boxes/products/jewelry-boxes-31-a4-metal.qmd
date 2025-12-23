@@ -1,0 +1,105 @@
+---
+title: "Jewelry_Boxes Product"
+subtitle: "Buy premium jewelry_boxes online"
+categories: "jewelry_boxes"
+image: "https://placehold.co/600x600?text=jb031-a4-metal+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=jb031-a4-metal+1"
+        alt="jewelry_boxes image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=jb031-a4-metal+1" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb031-a4-metal+2" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb031-a4-metal+3" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb031-a4-metal+4" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Jewelry_Boxes Product</h1>
+      <p class="category">jewelry_boxes</p>
+
+      <div class="rating">
+        ⭐ 4.5 (221 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€19,90</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: jb-031-a4-metal
+      </p>
+
+      <p class="short-description">
+        High quality jewelry boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 4 x 15 x 7 in - Weight: 12.12 lb - Options: size:a4 | material:metal - High-quality jewelry boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="jewelry-boxes-31-large-paper" data-sku="jb-031-large-paper" data-price="17.74">size:large | material:paper</option>
+<option value="jewelry-boxes-31-a5-paper" data-sku="jb-031-a5-paper" data-price="15.32">size:a5 | material:paper</option>
+<option value="jewelry-boxes-31-a4-metal" data-sku="jb-031-a4-metal" data-price="19.9">size:a4 | material:metal</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="jb-031-a4-metal"
+        data-price="<span class="price">€19,90</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality jewelry boxes with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 11 x 3 x 5 in</li>
+  <li><strong>Weight:</strong> 13.99 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €9,94</li>
+  <li><strong>Delivery Time:</strong> 10 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

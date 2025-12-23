@@ -1,0 +1,104 @@
+---
+title: "Boxes Product"
+subtitle: "Buy premium boxes online"
+categories: "boxes"
+image: "https://placehold.co/600x600?text=bx014+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=bx014+1"
+        alt="boxes image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx014+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bx014+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=bx014+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.6 (255 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€16,24</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-014
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 9 x 16 x 4 in - Weight: 11.89 lb - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-14-fabric-textured" data-sku="bx-014-fabric-textured" data-price="19.15">material:fabric | finish:textured</option>
+<option value="boxes-14-leather-matte" data-sku="bx-014-leather-matte" data-price="14.74">material:leather | finish:matte</option>
+<option value="boxes-14-leather-glossy" data-sku="bx-014-leather-glossy" data-price="15.3">material:leather | finish:glossy</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="bx-014"
+        data-price="<span class="price">€16,24</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality boxes with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 16 x 13 x 4 in</li>
+  <li><strong>Weight:</strong> 1.19 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store B</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €5,34</li>
+  <li><strong>Delivery Time:</strong> 6 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

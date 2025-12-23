@@ -17,827 +17,1178 @@
 <width>111</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 21 Dec 2025 04:42:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 13:07:24 GMT</lastBuildDate>
 <item>
-  <title>Dhaka Notebook with Refills</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/dhaka-notebook-w-refills.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-14-fabric-textured.html</link>
   <description><![CDATA[ 
 
 
 
 
-<div class="grid">
-<div class="g-col-8">
-<!-- Insert Product Images below -->
-<div id="quarto-carousel-1" class="carousel slide" data-bs-ride="true">
-<div class="carousel-indicators">
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="0" class=" active" aria-current="true" aria-label="Slide 1"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="1" class="" aria-label="Slide 2"></button>
-  
-  <button type="button" data-bs-target="#quarto-carousel-1" data-bs-slide-to="2" class="" aria-label="Slide 3"></button>
-  
-</div>
-<div class="carousel-inner">
-<div class="carousel-item active" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2732.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2734.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook Pages</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="2000">
-<img src="https://jamarko.com.np/assets/media/images/products/img_2741.jpg" class="d-block mx-auto">
-<div class="carousel-caption d-none d-md-block">
-<p>Dhaka Notebook Cover</p>
-</div>
-</div>
-</div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="prev">
-      
-      <span class="visually-hidden">Previous</span>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx014-fabric-textured+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx014-fabric-textured+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-fabric-textured+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-fabric-textured+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-fabric-textured+4" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.7 (155 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€19,15</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-014-fabric-textured
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 6 x 9 x 8 in - Weight: 10.26 lb - Options: material:fabric | finish:textured - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-14-fabric-textured" data-sku="bx-014-fabric-textured" data-price="19.15">material:fabric | finish:textured</option>
+<option value="boxes-14-leather-matte" data-sku="bx-014-leather-matte" data-price="14.74">material:leather | finish:matte</option>
+<option value="boxes-14-leather-glossy" data-sku="bx-014-leather-glossy" data-price="15.3">material:leather | finish:glossy</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-014-fabric-textured" data-price="<span class=" price"="">€19,15"
+      &gt;
+        Add to Cart
       </button>
-    
-      <button class="carousel-control-next" type="button" data-bs-target="#quarto-carousel-1" data-bs-slide="next">
-      
-      <span class="visually-hidden">Next</span>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 13 x 7 x 4 in
+</li>
+<li>
+<strong>Weight:</strong> 6.46 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €5,34
+</li>
+<li>
+<strong>Delivery Time:</strong> 6 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-14-fabric-textured.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx014-fabric-textured+1" medium="image"/>
+</item>
+<item>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-14-leather-glossy.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx014-leather-glossy+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx014-leather-glossy+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-leather-glossy+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.6 (209 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€15,30</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-014-leather-glossy
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 5 x 16 x 7 in - Weight: 5.83 lb - Options: material:leather | finish:glossy - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-14-fabric-textured" data-sku="bx-014-fabric-textured" data-price="19.15">material:fabric | finish:textured</option>
+<option value="boxes-14-leather-matte" data-sku="bx-014-leather-matte" data-price="14.74">material:leather | finish:matte</option>
+<option value="boxes-14-leather-glossy" data-sku="bx-014-leather-glossy" data-price="15.3">material:leather | finish:glossy</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-014-leather-glossy" data-price="<span class=" price"="">€15,30"
+      &gt;
+        Add to Cart
       </button>
-    
+    </div>
+
+  </section>
 </div>
-<!-- end carousel -->
-</div>
-<!-- end g-col-8 -->
-<div class="g-col-4">
-<!-- Product Details Section -->
-<div class="product-details">
-<p>
-<span id="price-label" class="label">Price:</span> <span id="price-value" class="value">रू 565.00</span>
-</p>
-<p>
-<span id="availability-label" class="label">Availability:</span> <span id="availability-value" class="value">Out of stock</span>
-</p>
-<p>
-<span id="sku-label" class="label">SKU:</span> <span id="sku-value" class="value">SERA6</span>
-</p>
-</div>
-<section id="specifications" class="level4">
-<h4 class="anchored" data-anchor-id="specifications">Specifications</h4>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 6” x 4.5”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with traditional Nepali Dhaka fabric</li>
-<li>Includes 2 refills</li>
+<li>
+<strong>Dimensions:</strong> 7 x 16 x 7 in
+</li>
+<li>
+<strong>Weight:</strong> 13.57 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> €5,34
+</li>
+<li>
+<strong>Delivery Time:</strong> 6 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
 </div>
-<!-- end g-col-4 -->
-</div>
-<!-- end grid -->
-<section id="description" class="level4">
-<h4 class="anchored" data-anchor-id="description">Description</h4>
-<p>This multi-functional journal is made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. This special edition features traditional Nepali handmade fabric ‘Dhaka’, and comes with 2 refills.</p>
-<p>These notebooks are made with 100% post-consumer recycled paper and is perfect for your note-taking/ journaling needs. Recycled paper is suitable for pencil and ballpoint pen. They make a great diary, sketchbooks, notebooks, to-do lists, art books, journals, and gifts for any and everyone!</p>
-<ul>
-<li>40 blank pages of 100% recycled paper</li>
-<li>Approximately 6” x 4.5”</li>
-<li>Ribbon page marker</li>
-<li>Hardbound with traditional Nepali Dhaka fabric</li>
-<li>Includes 2 refills</li>
-</ul>
-<p>Our products are handmade; slight variation in color, size, shape and texture make our each piece unique and special.</p>
-<p>All our paper products are tree-free!</p>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <category>Journals</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/dhaka-notebook-w-refills.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-14-leather-glossy.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx014-leather-glossy+1" medium="image"/>
 </item>
 <item>
-  <title>EcoCarry Grocery Bag</title>
-  <link>https://jamarko.com.np/shop/paperbags/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-14-leather-matte.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Paper bag front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Paper bag front"></a></p>
-<figcaption>Paper bag front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx014-leather-matte+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx014-leather-matte+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-leather-matte+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014-leather-matte+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.4 (287 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€14,74</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-014-leather-matte
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 17 x 10 x 1 in - Weight: 4.39 lb - Options: material:leather | finish:matte - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-14-fabric-textured" data-sku="bx-014-fabric-textured" data-price="19.15">material:fabric | finish:textured</option>
+<option value="boxes-14-leather-matte" data-sku="bx-014-leather-matte" data-price="14.74">material:leather | finish:matte</option>
+<option value="boxes-14-leather-glossy" data-sku="bx-014-leather-glossy" data-price="15.3">material:leather | finish:glossy</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-014-leather-matte" data-price="<span class=" price"="">€14,74"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Paper bag side"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Paper bag side"></a></p>
-<figcaption>Paper bag side</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Strong and durable for groceries<br>
-</li>
-<li>Plastic-free and biodegradable<br>
-</li>
-<li>Foldable for easy storage</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoCarry is a sustainable grocery bag crafted from recycled paper.<br>
-Lightweight yet strong, it is perfect for carrying groceries, lunch, or everyday items.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 35 × 15 × 40 cm | <strong>Weight:</strong> 100 g<br>
+<li>
+<strong>Dimensions:</strong> 10 x 8 x 1 in
 </li>
-<li><strong>Material:</strong> Recycled paper | <strong>Color:</strong> Kraft brown<br>
+<li>
+<strong>Weight:</strong> 1.03 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>Fully recyclable and biodegradable<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Plastic-free packaging</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> €5,34
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 6 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it carry heavy items?</strong> Yes, up to 5 kg.<br>
-<strong>Is it waterproof?</strong> No, avoid prolonged contact with water.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Bags</category>
-  <guid>https://jamarko.com.np/shop/paperbags/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-14-leather-matte.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx014-leather-matte+1" medium="image"/>
 </item>
 <item>
-  <title>EcoFrame Wooden Photo Frame</title>
-  <link>https://jamarko.com.np/shop/photoframes/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-14.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Photo frame front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Photo frame front"></a></p>
-<figcaption>Photo frame front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx014+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx014+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx014+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.6 (255 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€16,24</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-014
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 9 x 16 x 4 in - Weight: 11.89 lb - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-14-fabric-textured" data-sku="bx-014-fabric-textured" data-price="19.15">material:fabric | finish:textured</option>
+<option value="boxes-14-leather-matte" data-sku="bx-014-leather-matte" data-price="14.74">material:leather | finish:matte</option>
+<option value="boxes-14-leather-glossy" data-sku="bx-014-leather-glossy" data-price="15.3">material:leather | finish:glossy</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-014" data-price="<span class=" price"="">€16,24"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Photo frame side"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Photo frame side"></a></p>
-<figcaption>Photo frame side</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled wood<br>
-</li>
-<li>Durable and lightweight<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for photos, artwork, or certificates</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoFrame is a sustainable photo frame crafted from recycled wood.<br>
-Its minimalist design complements any decor while supporting eco-friendly living.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 20 × 25 cm | <strong>Weight:</strong> 350 g<br>
+<li>
+<strong>Dimensions:</strong> 16 x 13 x 4 in
 </li>
-<li><strong>Material:</strong> Recycled wood | <strong>Color:</strong> Natural brown<br>
+<li>
+<strong>Weight:</strong> 1.19 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled wood<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> €5,34
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 6 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it stand on a desk?</strong> Yes, includes a fold-out stand.<br>
-<strong>Can it be hung on a wall?</strong> Yes, comes with hooks.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Wood</category>
-  <category>Home Decor</category>
-  <guid>https://jamarko.com.np/shop/photoframes/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-14.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx014+1" medium="image"/>
 </item>
 <item>
-  <title>EcoGem Recycled Jewelry Box</title>
-  <link>https://jamarko.com.np/shop/jewelryboxes/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-15-linen.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Jewelry box closed"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Jewelry box closed"></a></p>
-<figcaption>Jewelry box closed</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx015-linen+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx015-linen+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-linen+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.6 (198 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹11.66</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-015-linen
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 13 x 7 x 2 in - Weight: 10.84 lb - Options: material:linen - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-15-wood" data-sku="bx-015-wood" data-price="13.53">material:wood</option>
+<option value="boxes-15-paper" data-sku="bx-015-paper" data-price="12.23">material:paper</option>
+<option value="boxes-15-linen" data-sku="bx-015-linen" data-price="11.66">material:linen</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-015-linen" data-price="<span class=" price"="">₹11.66"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Jewelry box open"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Jewelry box open"></a></p>
-<figcaption>Jewelry box open</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled cardboard<br>
-</li>
-<li>Soft inner lining for protection<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for rings, necklaces, and small accessories</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoGem is a stylish, eco-friendly jewelry box made from recycled cardboard and lined with soft cotton.<br>
-Perfect for gifting or storing delicate jewelry while caring for the environment.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 10 × 10 × 5 cm | <strong>Weight:</strong> 150 g<br>
+<li>
+<strong>Dimensions:</strong> 16 x 13 x 9 in
 </li>
-<li><strong>Material:</strong> Recycled cardboard &amp; cotton lining | <strong>Color:</strong> Kraft brown<br>
+<li>
+<strong>Weight:</strong> 11.23 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled materials<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> ₹13.99
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it hold multiple rings?</strong> Yes, fits several rings or small necklaces.<br>
-<strong>Is the lining removable?</strong> No, sewn in for protection.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Cardboard</category>
-  <category>Jewelry Boxes</category>
-  <guid>https://jamarko.com.np/shop/jewelryboxes/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-15-linen.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx015-linen+1" medium="image"/>
 </item>
 <item>
-  <title>EcoGlow Recycled Paper Lampshade</title>
-  <link>https://jamarko.com.np/shop/lampshades/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-15-paper.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade front"></a></p>
-<figcaption>Lampshade front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx015-paper+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx015-paper+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-paper+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-paper+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.9 (192 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹12.23</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-015-paper
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 3 x 18 x 3 in - Weight: 5.22 lb - Options: material:paper - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-15-wood" data-sku="bx-015-wood" data-price="13.53">material:wood</option>
+<option value="boxes-15-paper" data-sku="bx-015-paper" data-price="12.23">material:paper</option>
+<option value="boxes-15-linen" data-sku="bx-015-linen" data-price="11.66">material:linen</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-015-paper" data-price="<span class=" price"="">₹12.23"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Lampshade side"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Lampshade side"></a></p>
-<figcaption>Lampshade side</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Soft ambient lighting<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for desks, bedrooms, or living rooms</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoGlow is an eco-friendly lampshade made from recycled paper.<br>
-It diffuses light softly to create a warm, natural ambiance while reducing waste.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 25 × 25 × 20 cm | <strong>Weight:</strong> 400 g<br>
+<li>
+<strong>Dimensions:</strong> 11 x 4 x 7 in
 </li>
-<li><strong>Material:</strong> Recycled paper &amp; wire frame | <strong>Color:</strong> Natural cream<br>
+<li>
+<strong>Weight:</strong> 11.51 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled paper<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> ₹13.99
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can it be used with LED bulbs?</strong> Yes, safe with LED bulbs.<br>
-<strong>Is it water-resistant?</strong> No, keep away from moisture.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Home Decor</category>
-  <guid>https://jamarko.com.np/shop/lampshades/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-15-paper.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx015-paper+1" medium="image"/>
 </item>
 <item>
-  <title>EcoPack Recycled Storage Box</title>
-  <link>https://jamarko.com.np/shop/boxes/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-15-wood.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Box front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Box front"></a></p>
-<figcaption>Box front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx015-wood+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx015-wood+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-wood+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-wood+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015-wood+4" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.3 (182 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹13.53</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-015-wood
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 10 x 19 x 4 in - Weight: 14.8 lb - Options: material:wood - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-15-wood" data-sku="bx-015-wood" data-price="13.53">material:wood</option>
+<option value="boxes-15-paper" data-sku="bx-015-paper" data-price="12.23">material:paper</option>
+<option value="boxes-15-linen" data-sku="bx-015-linen" data-price="11.66">material:linen</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-015-wood" data-price="<span class=" price"="">₹13.53"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Box open"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Box open"></a></p>
-<figcaption>Box open</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% post-consumer recycled cardboard</li>
-<li>Sturdy and foldable design</li>
-<li>Plastic-free packaging</li>
-<li>Ideal for storage or organization</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoPack is a sustainable storage solution made entirely from recycled cardboard.<br>
-Lightweight yet strong, it is perfect for organizing your home, office, or workshop.<br>
-Each box is carefully manufactured with eco-friendly materials.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 30 × 20 × 15 cm | <strong>Weight:</strong> 350 g<br>
+<li>
+<strong>Dimensions:</strong> 18 x 11 x 4 in
 </li>
-<li><strong>Material:</strong> Recycled cardboard | <strong>Color:</strong> Natural brown<br>
+<li>
+<strong>Weight:</strong> 4.59 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled cardboard<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days, plastic-free packaging, 30-day returns</li>
+<li>
+<strong>Shipping Cost:</strong> ₹13.99
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Is it water-resistant?</strong> No, avoid prolonged exposure to moisture.<br>
-<strong>Can it hold heavy items?</strong> Up to 5 kg safely.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Cardboard</category>
-  <category>Storage</category>
-  <guid>https://jamarko.com.np/shop/boxes/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-15-wood.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx015-wood+1" medium="image"/>
 </item>
 <item>
-  <title>EcoPath Minimal Notebook</title>
-  <link>https://jamarko.com.np/shop/notebooks/products/product2.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-15.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook cover"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook cover"></a></p>
-<figcaption>Notebook cover</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx015+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx015+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx015+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.4 (145 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">₹12.63</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-015
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 19 x 3 x 10 in - Weight: 6.88 lb - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-15-wood" data-sku="bx-015-wood" data-price="13.53">material:wood</option>
+<option value="boxes-15-paper" data-sku="bx-015-paper" data-price="12.23">material:paper</option>
+<option value="boxes-15-linen" data-sku="bx-015-linen" data-price="11.66">material:linen</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-015" data-price="<span class=" price"="">₹12.63"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Notebook pages"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Notebook pages"></a></p>
-<figcaption>Notebook pages</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Compact and lightweight<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for journaling, notes, and planning</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoPath is a minimalist notebook made from recycled paper and cardboard.<br>
-Perfect for eco-conscious writers and students looking for a sustainable option.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> B6 (125 × 176 mm) | <strong>Pages:</strong> 90 lined<br>
+<li>
+<strong>Dimensions:</strong> 16 x 11 x 2 in
 </li>
-<li><strong>Paper Weight:</strong> 85 GSM | <strong>Cover:</strong> Recycled cardboard<br>
+<li>
+<strong>Weight:</strong> 11.14 lb
 </li>
-<li><strong>Color:</strong> Light brown | <strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled materials<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> ₹13.99
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I use gel pens?</strong> Yes, works well.<br>
-<strong>Is the cover durable?</strong> Yes, sturdy recycled cardboard cover.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/notebooks/products/product2.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-15.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx015+1" medium="image"/>
 </item>
 <item>
-  <title>EcoSmile Birthday Card</title>
-  <link>https://jamarko.com.np/shop/greetingcards/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-20-brown-floral.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Birthday card front"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Birthday card front"></a></p>
-<figcaption>Birthday card front</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx020-brown-floral+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx020-brown-floral+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-floral+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-floral+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-floral+4" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.3 (230 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$32.55</span>
+      </div>
+
+      <p class="availability">
+        Availability: Out of Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-020-brown-floral
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 5 x 11 x 7 in - Weight: 9.95 lb - Options: color:brown | pattern:floral - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-20-white-plain" data-sku="bx-020-white-plain" data-price="33.0">color:white | pattern:plain</option>
+<option value="boxes-20-brown-floral" data-sku="bx-020-brown-floral" data-price="32.55">color:brown | pattern:floral</option>
+<option value="boxes-20-brown-striped" data-sku="bx-020-brown-striped" data-price="33.49">color:brown | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-020-brown-floral" data-price="<span class=" price"="">CA$32.55"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Birthday card inside"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Birthday card inside"></a></p>
-<figcaption>Birthday card inside</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% post-consumer recycled paper<br>
-</li>
-<li>Minimalist design with eco-friendly ink<br>
-</li>
-<li>Plastic-free envelope included<br>
-</li>
-<li>Perfect for birthdays or special occasions</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoSmile is a handmade birthday card crafted from recycled paper.<br>
-Lightweight, durable, and stylish, it spreads joy while caring for the environment.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 10 × 15 cm | <strong>Weight:</strong> 20 g<br>
+<li>
+<strong>Dimensions:</strong> 19 x 15 x 9 in
 </li>
-<li><strong>Material:</strong> Recycled paper | <strong>Color:</strong> Natural cream<br>
+<li>
+<strong>Weight:</strong> 11.4 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled paper, fully recyclable<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Plastic-free packaging</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> CA$2.34
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I write with gel pens?</strong> Yes, works well with pens and pencils.<br>
-<strong>Is the envelope recyclable?</strong> Yes, fully recyclable.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Greeting Cards</category>
-  <guid>https://jamarko.com.np/shop/greetingcards/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-20-brown-floral.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx020-brown-floral+1" medium="image"/>
 </item>
 <item>
-  <title>EcoWrap Floral Design</title>
-  <link>https://jamarko.com.np/shop/wrappingpapers/products/product1.html</link>
+  <title>Boxes Product</title>
+  <link>https://jamarko.com.np/shop/boxes/products/boxes-20-brown-striped.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Wrapping paper roll"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Wrapping paper roll"></a></p>
-<figcaption>Wrapping paper roll</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=bx020-brown-striped+1" alt="boxes image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=bx020-brown-striped+1" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-striped+2" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-striped+3" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=bx020-brown-striped+4" class="thumbnail" alt="boxes image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Boxes Product</h1>
+      <p class="category">boxes</p>
+
+      <div class="rating">
+        ⭐ 4.6 (64 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$33.49</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: bx-020-brown-striped
+      </p>
+
+      <p class="short-description">
+        High quality boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 8 x 18 x 4 in - Weight: 12.76 lb - Options: color:brown | pattern:striped - High-quality boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="boxes-20-white-plain" data-sku="bx-020-white-plain" data-price="33.0">color:white | pattern:plain</option>
+<option value="boxes-20-brown-floral" data-sku="bx-020-brown-floral" data-price="32.55">color:brown | pattern:floral</option>
+<option value="boxes-20-brown-striped" data-sku="bx-020-brown-striped" data-price="33.49">color:brown | pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="bx-020-brown-striped" data-price="<span class=" price"="">CA$33.49"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Wrapping paper pattern"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Wrapping paper pattern"></a></p>
-<figcaption>Wrapping paper pattern</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled paper<br>
-</li>
-<li>Vibrant floral design<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Ideal for gifts, crafts, and decoration</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoWrap is a sustainable wrapping paper made from recycled materials.<br>
-It features beautiful floral prints, perfect for wrapping gifts while caring for the environment.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality boxes with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Size:</strong> 70 × 50 cm | <strong>Weight:</strong> 60 g<br>
+<li>
+<strong>Dimensions:</strong> 6 x 3 x 1 in
 </li>
-<li><strong>Material:</strong> Recycled paper | <strong>Color:</strong> Multicolor floral<br>
+<li>
+<strong>Weight:</strong> 6.11 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled paper<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully recyclable and biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> CA$2.34
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 4 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I use tape on it?</strong> Yes, standard tape works.<br>
-<strong>Is it suitable for printing?</strong> Not recommended.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Paper</category>
-  <category>Gift Wrap</category>
-  <guid>https://jamarko.com.np/shop/wrappingpapers/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
-</item>
-<item>
-  <title>EcoWrite Recycled Pencil</title>
-  <link>https://jamarko.com.np/shop/pencils/products/product1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Pencil close-up"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Pencil close-up"></a></p>
-<figcaption>Pencil close-up</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Pencil bundle"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Pencil bundle"></a></p>
-<figcaption>Pencil bundle</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled wood<br>
-</li>
-<li>Smooth graphite for clean writing<br>
-</li>
-<li>Non-toxic, eco-friendly materials<br>
-</li>
-<li>Comes in a pack of 5</li>
-</ul>
-</section>
-<section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoWrite is a sustainable pencil crafted from recycled wood and natural graphite.<br>
-Ideal for writing, sketching, or drawing, it combines functionality with environmental responsibility.</p>
-</section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
-<ul>
-<li><strong>Length:</strong> 19 cm | <strong>Diameter:</strong> 0.7 cm<br>
-</li>
-<li><strong>Material:</strong> Recycled wood &amp; graphite | <strong>Color:</strong> Natural wood<br>
-</li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled wood<br>
-</li>
-<li>Fully biodegradable and non-toxic</li>
-</ul>
-</section>
-<section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
-<ul>
-<li>Ships in 2–3 business days<br>
-</li>
-<li>30-day returns accepted</li>
-</ul>
-</section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Are they sharpened?</strong> Yes, pre-sharpened.<br>
-<strong>Are they suitable for children?</strong> Yes, non-toxic and safe.</p>
-
-
-</section>
-
- ]]></description>
-  <category>Recycled Wood</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/pencils/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:42:42 GMT</pubDate>
+  <category>boxes</category>
+  <guid>https://jamarko.com.np/shop/boxes/products/boxes-20-brown-striped.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:07:24 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=bx020-brown-striped+1" medium="image"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,104 @@
+---
+title: "Photo_Frames Product"
+subtitle: "Buy premium photo_frames online"
+categories: "photo_frames"
+image: "https://placehold.co/600x600?text=pf016-large+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=pf016-large+1"
+        alt="photo_frames image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=pf016-large+1" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=pf016-large+2" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=pf016-large+3" class="thumbnail" alt="photo_frames image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Photo_Frames Product</h1>
+      <p class="category">photo_frames</p>
+
+      <div class="rating">
+        ⭐ 4.8 (98 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$32.43</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: pf-016-large
+      </p>
+
+      <p class="short-description">
+        High quality photo frames
+      </p>
+
+      <p class="additional_details">
+        - Material: linen - Dimensions: 14 x 14 x 4 in - Weight: 2.36 lb - Options: size:large - High-quality photo frames product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="photo-frames-16-a4" data-sku="pf-016-a4" data-price="32.72">size:a4</option>
+<option value="photo-frames-16-small" data-sku="pf-016-small" data-price="29.71">size:small</option>
+<option value="photo-frames-16-large" data-sku="pf-016-large" data-price="32.43">size:large</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="pf-016-large"
+        data-price="<span class="price">CA$32.43</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality photo frames with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 9 x 7 x 7 in</li>
+  <li><strong>Weight:</strong> 9.1 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> CA$14.67</li>
+  <li><strong>Delivery Time:</strong> 13 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

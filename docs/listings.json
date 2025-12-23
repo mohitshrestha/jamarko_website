@@ -2,91 +2,256 @@
   {
     "listing": "/shop.html",
     "items": [
-      "/shop/notebooks/products/dhaka-notebook-w-refills.html",
-      "/shop/paperbags/products/product1.html",
-      "/shop/photoframes/products/product1.html",
-      "/shop/jewelryboxes/products/product1.html",
-      "/shop/lampshades/products/product1.html",
-      "/shop/boxes/products/product1.html",
-      "/shop/notebooks/products/product2.html",
-      "/shop/greetingcards/products/product1.html",
-      "/shop/wrappingpapers/products/product1.html",
-      "/shop/pencils/products/product1.html",
-      "/shop/notebooks/products/product1.html",
-      "/shop/lampshades/products/product2.html",
-      "/shop/jewelryboxes/products/product2.html",
-      "/shop/pencils/products/product2.html",
-      "/shop/boxes/products/product2.html",
-      "/shop/paperbags/products/product2.html",
-      "/shop/photoframes/products/product2.html",
-      "/shop/greetingcards/products/product2.html",
-      "/shop/wrappingpapers/products/product2.html",
-      "/shop/notebooks/products/recycled-paper-notebook-set.html"
+      "/shop/boxes/products/boxes-14-fabric-textured.html",
+      "/shop/boxes/products/boxes-14-leather-glossy.html",
+      "/shop/boxes/products/boxes-14-leather-matte.html",
+      "/shop/boxes/products/boxes-14.html",
+      "/shop/boxes/products/boxes-15-linen.html",
+      "/shop/boxes/products/boxes-15-paper.html",
+      "/shop/boxes/products/boxes-15-wood.html",
+      "/shop/boxes/products/boxes-15.html",
+      "/shop/boxes/products/boxes-20-brown-floral.html",
+      "/shop/boxes/products/boxes-20-brown-striped.html",
+      "/shop/boxes/products/boxes-20-white-plain.html",
+      "/shop/boxes/products/boxes-20.html",
+      "/shop/boxes/products/boxes-30-fabric.html",
+      "/shop/boxes/products/boxes-30-linen.html",
+      "/shop/boxes/products/boxes-30-metal.html",
+      "/shop/boxes/products/boxes-30.html",
+      "/shop/boxes/products/boxes-4-fabric-glossy.html",
+      "/shop/boxes/products/boxes-4-fabric-matte.html",
+      "/shop/boxes/products/boxes-4-leather-glossy.html",
+      "/shop/boxes/products/boxes-4.html",
+      "/shop/greeting-cards/products/greeting-cards-24.html",
+      "/shop/greeting-cards/products/greeting-cards-25-brown-striped.html",
+      "/shop/greeting-cards/products/greeting-cards-25-white-geometric.html",
+      "/shop/greeting-cards/products/greeting-cards-25-white-plain.html",
+      "/shop/greeting-cards/products/greeting-cards-25.html",
+      "/shop/greeting-cards/products/greeting-cards-6-leather.html",
+      "/shop/greeting-cards/products/greeting-cards-6-linen.html",
+      "/shop/greeting-cards/products/greeting-cards-6-paper.html",
+      "/shop/greeting-cards/products/greeting-cards-6.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-2.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-beige.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-black.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-brown.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a4-leather.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a5-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a5-wood.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-a4-metal.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-a5-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-large-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31.html",
+      "/shop/lampshades/products/lampshades-1-floral.html",
+      "/shop/lampshades/products/lampshades-1-geometric.html",
+      "/shop/lampshades/products/lampshades-1-striped.html",
+      "/shop/lampshades/products/lampshades-1.html",
+      "/shop/lampshades/products/lampshades-17-blue-geometric.html",
+      "/shop/lampshades/products/lampshades-17-green-geometric.html",
+      "/shop/lampshades/products/lampshades-17-green-striped.html",
+      "/shop/lampshades/products/lampshades-17.html",
+      "/shop/notebooks/products/notebooks-18-a4.html",
+      "/shop/notebooks/products/notebooks-18-large.html",
+      "/shop/notebooks/products/notebooks-18-medium.html",
+      "/shop/notebooks/products/notebooks-18.html",
+      "/shop/notebooks/products/notebooks-26-a5-green.html",
+      "/shop/notebooks/products/notebooks-26-a5-white.html",
+      "/shop/notebooks/products/notebooks-26-small-blue.html",
+      "/shop/notebooks/products/notebooks-26.html",
+      "/shop/notebooks/products/notebooks-28-a4-black.html",
+      "/shop/notebooks/products/notebooks-28-a4-blue.html",
+      "/shop/notebooks/products/notebooks-28-a5-black.html",
+      "/shop/notebooks/products/notebooks-28.html",
+      "/shop/notebooks/products/notebooks-29.html",
+      "/shop/notebooks/products/notebooks-5-large-floral.html",
+      "/shop/notebooks/products/notebooks-5-large-plain.html",
+      "/shop/notebooks/products/notebooks-5-medium-floral.html",
+      "/shop/notebooks/products/notebooks-5.html",
+      "/shop/paper-bags/products/paper-bags-3-a4-fabric.html",
+      "/shop/paper-bags/products/paper-bags-3-a5-wood.html",
+      "/shop/paper-bags/products/paper-bags-3-medium-leather.html",
+      "/shop/paper-bags/products/paper-bags-3.html",
+      "/shop/pencils/products/pencils-11.html",
+      "/shop/pencils/products/pencils-13-leather-matte.html",
+      "/shop/pencils/products/pencils-13-paper-textured.html",
+      "/shop/pencils/products/pencils-13-wood-glossy.html",
+      "/shop/pencils/products/pencils-13.html",
+      "/shop/pencils/products/pencils-19.html",
+      "/shop/pencils/products/pencils-23-geometric.html",
+      "/shop/pencils/products/pencils-23-plain.html",
+      "/shop/pencils/products/pencils-23-striped.html",
+      "/shop/pencils/products/pencils-23.html",
+      "/shop/pencils/products/pencils-8.html",
+      "/shop/photo-frames/products/photo-frames-12-blue-floral.html",
+      "/shop/photo-frames/products/photo-frames-12-brown-plain.html",
+      "/shop/photo-frames/products/photo-frames-12-white-striped.html",
+      "/shop/photo-frames/products/photo-frames-12.html",
+      "/shop/photo-frames/products/photo-frames-16-a4.html",
+      "/shop/photo-frames/products/photo-frames-16-large.html",
+      "/shop/photo-frames/products/photo-frames-16-small.html",
+      "/shop/photo-frames/products/photo-frames-16.html",
+      "/shop/photo-frames/products/photo-frames-22.html",
+      "/shop/photo-frames/products/photo-frames-9-floral.html",
+      "/shop/photo-frames/products/photo-frames-9-geometric.html",
+      "/shop/photo-frames/products/photo-frames-9-plain.html",
+      "/shop/photo-frames/products/photo-frames-9.html",
+      "/shop/uncategorized/products/uncategorized-7-brown-striped.html",
+      "/shop/uncategorized/products/uncategorized-7-green-plain.html",
+      "/shop/uncategorized/products/uncategorized-7-white-floral.html",
+      "/shop/uncategorized/products/uncategorized-7.html",
+      "/shop/wrapping-papers/products/wrapping-papers-10.html"
     ]
   },
   {
-    "listing": "/shop/photoframes/index.html",
+    "listing": "/shop/wrapping-papers/index.html",
     "items": [
-      "/shop/photoframes/products/product1.html",
-      "/shop/photoframes/products/product2.html"
+      "/shop/wrapping-papers/products/wrapping-papers-10.html"
     ]
   },
   {
-    "listing": "/shop/paperbags/index.html",
+    "listing": "/shop/paper-bags/index.html",
     "items": [
-      "/shop/paperbags/products/product1.html",
-      "/shop/paperbags/products/product2.html"
-    ]
-  },
-  {
-    "listing": "/shop/lampshades/index.html",
-    "items": [
-      "/shop/lampshades/products/product1.html",
-      "/shop/lampshades/products/product2.html"
-    ]
-  },
-  {
-    "listing": "/shop/greetingcards/index.html",
-    "items": [
-      "/shop/greetingcards/products/product1.html",
-      "/shop/greetingcards/products/product2.html"
-    ]
-  },
-  {
-    "listing": "/shop/boxes/index.html",
-    "items": [
-      "/shop/boxes/products/product1.html",
-      "/shop/boxes/products/product2.html"
-    ]
-  },
-  {
-    "listing": "/shop/jewelryboxes/index.html",
-    "items": [
-      "/shop/jewelryboxes/products/product1.html",
-      "/shop/jewelryboxes/products/product2.html"
+      "/shop/paper-bags/products/paper-bags-3-a4-fabric.html",
+      "/shop/paper-bags/products/paper-bags-3-a5-wood.html",
+      "/shop/paper-bags/products/paper-bags-3-medium-leather.html",
+      "/shop/paper-bags/products/paper-bags-3.html"
     ]
   },
   {
     "listing": "/shop/notebooks/index.html",
     "items": [
-      "/shop/notebooks/products/dhaka-notebook-w-refills.html",
-      "/shop/notebooks/products/product2.html",
-      "/shop/notebooks/products/product1.html",
-      "/shop/notebooks/products/recycled-paper-notebook-set.html"
+      "/shop/notebooks/products/notebooks-18-a4.html",
+      "/shop/notebooks/products/notebooks-18-large.html",
+      "/shop/notebooks/products/notebooks-18-medium.html",
+      "/shop/notebooks/products/notebooks-18.html",
+      "/shop/notebooks/products/notebooks-26-a5-green.html",
+      "/shop/notebooks/products/notebooks-26-a5-white.html",
+      "/shop/notebooks/products/notebooks-26-small-blue.html",
+      "/shop/notebooks/products/notebooks-26.html",
+      "/shop/notebooks/products/notebooks-28-a4-black.html",
+      "/shop/notebooks/products/notebooks-28-a4-blue.html",
+      "/shop/notebooks/products/notebooks-28-a5-black.html",
+      "/shop/notebooks/products/notebooks-28.html",
+      "/shop/notebooks/products/notebooks-29.html",
+      "/shop/notebooks/products/notebooks-5-large-floral.html",
+      "/shop/notebooks/products/notebooks-5-large-plain.html",
+      "/shop/notebooks/products/notebooks-5-medium-floral.html",
+      "/shop/notebooks/products/notebooks-5.html"
+    ]
+  },
+  {
+    "listing": "/shop/boxes/index.html",
+    "items": [
+      "/shop/boxes/products/boxes-14-fabric-textured.html",
+      "/shop/boxes/products/boxes-14-leather-glossy.html",
+      "/shop/boxes/products/boxes-14-leather-matte.html",
+      "/shop/boxes/products/boxes-14.html",
+      "/shop/boxes/products/boxes-15-linen.html",
+      "/shop/boxes/products/boxes-15-paper.html",
+      "/shop/boxes/products/boxes-15-wood.html",
+      "/shop/boxes/products/boxes-15.html",
+      "/shop/boxes/products/boxes-20-brown-floral.html",
+      "/shop/boxes/products/boxes-20-brown-striped.html",
+      "/shop/boxes/products/boxes-20-white-plain.html",
+      "/shop/boxes/products/boxes-20.html",
+      "/shop/boxes/products/boxes-30-fabric.html",
+      "/shop/boxes/products/boxes-30-linen.html",
+      "/shop/boxes/products/boxes-30-metal.html",
+      "/shop/boxes/products/boxes-30.html",
+      "/shop/boxes/products/boxes-4-fabric-glossy.html",
+      "/shop/boxes/products/boxes-4-fabric-matte.html",
+      "/shop/boxes/products/boxes-4-leather-glossy.html",
+      "/shop/boxes/products/boxes-4.html"
+    ]
+  },
+  {
+    "listing": "/shop/greeting-cards/index.html",
+    "items": [
+      "/shop/greeting-cards/products/greeting-cards-24.html",
+      "/shop/greeting-cards/products/greeting-cards-25-brown-striped.html",
+      "/shop/greeting-cards/products/greeting-cards-25-white-geometric.html",
+      "/shop/greeting-cards/products/greeting-cards-25-white-plain.html",
+      "/shop/greeting-cards/products/greeting-cards-25.html",
+      "/shop/greeting-cards/products/greeting-cards-6-leather.html",
+      "/shop/greeting-cards/products/greeting-cards-6-linen.html",
+      "/shop/greeting-cards/products/greeting-cards-6-paper.html",
+      "/shop/greeting-cards/products/greeting-cards-6.html"
+    ]
+  },
+  {
+    "listing": "/shop/jewelry-boxes/index.html",
+    "items": [
+      "/shop/jewelry-boxes/products/jewelry-boxes-2.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-beige.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-black.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21-brown.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-21.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a4-leather.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a5-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27-a5-wood.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-27.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-a4-metal.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-a5-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31-large-paper.html",
+      "/shop/jewelry-boxes/products/jewelry-boxes-31.html"
+    ]
+  },
+  {
+    "listing": "/shop/lampshades/index.html",
+    "items": [
+      "/shop/lampshades/products/lampshades-1-floral.html",
+      "/shop/lampshades/products/lampshades-1-geometric.html",
+      "/shop/lampshades/products/lampshades-1-striped.html",
+      "/shop/lampshades/products/lampshades-1.html",
+      "/shop/lampshades/products/lampshades-17-blue-geometric.html",
+      "/shop/lampshades/products/lampshades-17-green-geometric.html",
+      "/shop/lampshades/products/lampshades-17-green-striped.html",
+      "/shop/lampshades/products/lampshades-17.html"
     ]
   },
   {
     "listing": "/shop/pencils/index.html",
     "items": [
-      "/shop/pencils/products/product1.html",
-      "/shop/pencils/products/product2.html"
+      "/shop/pencils/products/pencils-11.html",
+      "/shop/pencils/products/pencils-13-leather-matte.html",
+      "/shop/pencils/products/pencils-13-paper-textured.html",
+      "/shop/pencils/products/pencils-13-wood-glossy.html",
+      "/shop/pencils/products/pencils-13.html",
+      "/shop/pencils/products/pencils-19.html",
+      "/shop/pencils/products/pencils-23-geometric.html",
+      "/shop/pencils/products/pencils-23-plain.html",
+      "/shop/pencils/products/pencils-23-striped.html",
+      "/shop/pencils/products/pencils-23.html",
+      "/shop/pencils/products/pencils-8.html"
     ]
   },
   {
-    "listing": "/shop/wrappingpapers/index.html",
+    "listing": "/shop/photo-frames/index.html",
     "items": [
-      "/shop/wrappingpapers/products/product1.html",
-      "/shop/wrappingpapers/products/product2.html"
+      "/shop/photo-frames/products/photo-frames-12-blue-floral.html",
+      "/shop/photo-frames/products/photo-frames-12-brown-plain.html",
+      "/shop/photo-frames/products/photo-frames-12-white-striped.html",
+      "/shop/photo-frames/products/photo-frames-12.html",
+      "/shop/photo-frames/products/photo-frames-16-a4.html",
+      "/shop/photo-frames/products/photo-frames-16-large.html",
+      "/shop/photo-frames/products/photo-frames-16-small.html",
+      "/shop/photo-frames/products/photo-frames-16.html",
+      "/shop/photo-frames/products/photo-frames-22.html",
+      "/shop/photo-frames/products/photo-frames-9-floral.html",
+      "/shop/photo-frames/products/photo-frames-9-geometric.html",
+      "/shop/photo-frames/products/photo-frames-9-plain.html",
+      "/shop/photo-frames/products/photo-frames-9.html"
+    ]
+  },
+  {
+    "listing": "/shop/uncategorized/index.html",
+    "items": [
+      "/shop/uncategorized/products/uncategorized-7-brown-striped.html",
+      "/shop/uncategorized/products/uncategorized-7-green-plain.html",
+      "/shop/uncategorized/products/uncategorized-7-white-floral.html",
+      "/shop/uncategorized/products/uncategorized-7.html"
     ]
   }
 ]

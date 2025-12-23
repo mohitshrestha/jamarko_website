@@ -1,0 +1,105 @@
+---
+title: "Jewelry_Boxes Product"
+subtitle: "Buy premium jewelry_boxes online"
+categories: "jewelry_boxes"
+image: "https://placehold.co/600x600?text=jb021-black+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=jb021-black+1"
+        alt="jewelry_boxes image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=jb021-black+1" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb021-black+2" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb021-black+3" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb021-black+4" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Jewelry_Boxes Product</h1>
+      <p class="category">jewelry_boxes</p>
+
+      <div class="rating">
+        ⭐ 4.4 (11 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">$17.34</span><span class="price-original">$19.29</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: jb-021-black
+      </p>
+
+      <p class="short-description">
+        High quality jewelry boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 9 x 15 x 8 in - Weight: 2.67 lb - Options: color:black - High-quality jewelry boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="jewelry-boxes-21-beige" data-sku="jb-021-beige" data-price="20.42">color:beige</option>
+<option value="jewelry-boxes-21-brown" data-sku="jb-021-brown" data-price="19.43">color:brown</option>
+<option value="jewelry-boxes-21-black" data-sku="jb-021-black" data-price="19.29">color:black</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="jb-021-black"
+        data-price="<span class="price-discount">$17.34</span><span class="price-original">$19.29</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality jewelry boxes with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 4 x 15 x 2 in</li>
+  <li><strong>Weight:</strong> 1.51 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> $3.32</li>
+  <li><strong>Delivery Time:</strong> 13 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

@@ -1,5 +1,5 @@
 ---
-title: "Lampshades Catalog"
+title: "Lampshades"
 listing:
   contents: "products"
   fields: [image, title, categories]

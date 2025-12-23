@@ -1,0 +1,105 @@
+---
+title: "Greeting_Cards Product"
+subtitle: "Buy premium greeting_cards online"
+categories: "greeting_cards"
+image: "https://placehold.co/600x600?text=gc025-brown-striped+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=gc025-brown-striped+1"
+        alt="greeting_cards image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=gc025-brown-striped+1" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc025-brown-striped+2" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc025-brown-striped+3" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=gc025-brown-striped+4" class="thumbnail" alt="greeting_cards image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Greeting_Cards Product</h1>
+      <p class="category">greeting_cards</p>
+
+      <div class="rating">
+        ⭐ 4.3 (209 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">A$16.21</span><span class="price-original">A$18.52</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: gc-025-brown-striped
+      </p>
+
+      <p class="short-description">
+        High quality greeting cards
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 16 x 13 x 10 in - Weight: 5.62 lb - Options: color:brown | pattern:striped - High-quality greeting cards product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="greeting-cards-25-white-geometric" data-sku="gc-025-white-geometric" data-price="21.93">color:white | pattern:geometric</option>
+<option value="greeting-cards-25-brown-striped" data-sku="gc-025-brown-striped" data-price="18.52">color:brown | pattern:striped</option>
+<option value="greeting-cards-25-white-plain" data-sku="gc-025-white-plain" data-price="23.09">color:white | pattern:plain</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="gc-025-brown-striped"
+        data-price="<span class="price-discount">A$16.21</span><span class="price-original">A$18.52</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality greeting cards with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 12 x 9 x 9 in</li>
+  <li><strong>Weight:</strong> 6.38 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$5.39</li>
+  <li><strong>Delivery Time:</strong> 6 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

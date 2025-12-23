@@ -1,0 +1,16 @@
+---
+title: "Paper_bags"
+listing:
+  contents: "products"
+  fields: [image, title, categories]
+  image-placeholder: ..\..\assets\media\images\logos_and_banners\logo.png
+  feed: 
+    items: 10
+  sort:
+    - "date"
+    - "title asc"
+  type: grid
+  categories: true
+  sort-ui: [title, date]
+  filter-ui: [title, date]
+---

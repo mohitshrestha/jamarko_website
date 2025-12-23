@@ -1,0 +1,105 @@
+---
+title: "Jewelry_Boxes Product"
+subtitle: "Buy premium jewelry_boxes online"
+categories: "jewelry_boxes"
+image: "https://placehold.co/600x600?text=jb027-a4-leather+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=jb027-a4-leather+1"
+        alt="jewelry_boxes image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=jb027-a4-leather+1" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb027-a4-leather+2" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb027-a4-leather+3" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=jb027-a4-leather+4" class="thumbnail" alt="jewelry_boxes image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Jewelry_Boxes Product</h1>
+      <p class="category">jewelry_boxes</p>
+
+      <div class="rating">
+        ⭐ 4.7 (14 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price-discount">A$29.60</span><span class="price-original">A$32.09</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: jb-027-a4-leather
+      </p>
+
+      <p class="short-description">
+        High quality jewelry boxes
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 4 x 13 x 1 in - Weight: 9.62 lb - Options: size:a4 | material:leather - High-quality jewelry boxes product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="jewelry-boxes-27-a5-paper" data-sku="jb-027-a5-paper" data-price="35.3">size:a5 | material:paper</option>
+<option value="jewelry-boxes-27-a4-leather" data-sku="jb-027-a4-leather" data-price="32.09">size:a4 | material:leather</option>
+<option value="jewelry-boxes-27-a5-wood" data-sku="jb-027-a5-wood" data-price="37.2">size:a5 | material:wood</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="jb-027-a4-leather"
+        data-price="<span class="price-discount">A$29.60</span><span class="price-original">A$32.09</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality jewelry boxes with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 16 x 18 x 2 in</li>
+  <li><strong>Weight:</strong> 7.72 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Warehouse</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> A$10.99</li>
+  <li><strong>Delivery Time:</strong> 5 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

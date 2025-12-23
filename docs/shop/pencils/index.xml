@@ -17,166 +17,1170 @@
 <width>111</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 21 Dec 2025 04:39:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 13:06:53 GMT</lastBuildDate>
 <item>
-  <title>EcoWrite Recycled Pencil</title>
-  <link>https://jamarko.com.np/shop/pencils/products/product1.html</link>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-11.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Pencil close-up"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Pencil close-up"></a></p>
-<figcaption>Pencil close-up</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps011+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps011+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps011+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps011+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps011+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps011+5" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.4 (234 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€3,39</span>
+      </div>
+
+      <p class="availability">
+        Availability: Preorder
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-011
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 11 x 19 x 10 in - Weight: 1.71 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-011" data-price="<span class=" price"="">€3,39"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Pencil bundle"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Pencil bundle"></a></p>
-<figcaption>Pencil bundle</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from 100% recycled wood<br>
-</li>
-<li>Smooth graphite for clean writing<br>
-</li>
-<li>Non-toxic, eco-friendly materials<br>
-</li>
-<li>Comes in a pack of 5</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>EcoWrite is a sustainable pencil crafted from recycled wood and natural graphite.<br>
-Ideal for writing, sketching, or drawing, it combines functionality with environmental responsibility.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Length:</strong> 19 cm | <strong>Diameter:</strong> 0.7 cm<br>
+<li>
+<strong>Dimensions:</strong> 9 x 11 x 5 in
 </li>
-<li><strong>Material:</strong> Recycled wood &amp; graphite | <strong>Color:</strong> Natural wood<br>
+<li>
+<strong>Weight:</strong> 1.76 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled wood<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Fully biodegradable and non-toxic</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> €8,69
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 13 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Are they sharpened?</strong> Yes, pre-sharpened.<br>
-<strong>Are they suitable for children?</strong> Yes, non-toxic and safe.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Wood</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/pencils/products/product1.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:39:19 GMT</pubDate>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-11.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps011+1" medium="image"/>
 </item>
 <item>
-  <title>GreenSketch Colored Pencil Set</title>
-  <link>https://jamarko.com.np/shop/pencils/products/product2.html</link>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-13-leather-matte.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="product-photos" class="level2">
-<h2 class="anchored" data-anchor-id="product-photos">🖼️ Product Photos</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Colored pencils set"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Colored pencils set"></a></p>
-<figcaption>Colored pencils set</figcaption>
-</figure>
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps013-leather-matte+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps013-leather-matte+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-leather-matte+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.5 (222 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$4.94</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-013-leather-matte
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 10 x 8 x 3 in - Weight: 3.19 lb - Options: material:leather | finish:matte - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-13-leather-matte" data-sku="ps-013-leather-matte" data-price="4.94">material:leather | finish:matte</option>
+<option value="pencils-13-wood-glossy" data-sku="ps-013-wood-glossy" data-price="4.3">material:wood | finish:glossy</option>
+<option value="pencils-13-paper-textured" data-sku="ps-013-paper-textured" data-price="3.83">material:paper | finish:textured</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-013-leather-matte" data-price="<span class=" price"="">$4.94"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../assets/media/images/logos_and_banners/logo.png" class="lightbox" data-gallery="gallery" title="Colored pencils in use"><img src="https://jamarko.com.np/assets/media/images/logos_and_banners/logo.png" class="img-fluid figure-img" alt="Colored pencils in use"></a></p>
-<figcaption>Colored pencils in use</figcaption>
-</figure>
-</div>
-</section>
-<section id="highlights" class="level2">
-<h2 class="anchored" data-anchor-id="highlights">💚 Highlights</h2>
-<ul>
-<li>Made from recycled wood and non-toxic pigments<br>
-</li>
-<li>Smooth, vibrant colors<br>
-</li>
-<li>Plastic-free packaging<br>
-</li>
-<li>Set of 12 colored pencils</li>
-</ul>
-</section>
+<!-- Tabbed Content -->
+<div class="tabset">
 <section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">📝 Description</h2>
-<p>GreenSketch is an eco-conscious colored pencil set made from recycled materials.<br>
-Perfect for drawing, coloring, and creative projects, while reducing environmental impact.</p>
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
 </section>
-<section id="item-details" class="level2">
-<h2 class="anchored" data-anchor-id="item-details">📐 Item Details</h2>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
 <ul>
-<li><strong>Length:</strong> 17.5 cm | <strong>Diameter:</strong> 0.7 cm<br>
+<li>
+<strong>Dimensions:</strong> 4 x 8 x 4 in
 </li>
-<li><strong>Material:</strong> Recycled wood &amp; colored pigments | <strong>Color:</strong> Assorted<br>
+<li>
+<strong>Weight:</strong> 7.28 lb
 </li>
-<li><strong>Made in:</strong> Nepal</li>
-</ul>
-</section>
-<section id="sustainability" class="level2">
-<h2 class="anchored" data-anchor-id="sustainability">♻️ Sustainability</h2>
-<ul>
-<li>100% recycled wood<br>
+<li>
+<strong>Supplier:</strong> Jamarko
 </li>
-<li>Non-toxic pigments, fully biodegradable</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
 </ul>
 </section>
 <section id="shipping-returns" class="level2">
-<h2 class="anchored" data-anchor-id="shipping-returns">🚚 Shipping &amp; Returns</h2>
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
 <ul>
-<li>Ships in 2–3 business days<br>
+<li>
+<strong>Shipping Cost:</strong> $5.79
 </li>
-<li>30-day returns accepted</li>
+<li>
+<strong>Delivery Time:</strong> 12 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
 </ul>
 </section>
-<section id="faqs" class="level2">
-<h2 class="anchored" data-anchor-id="faqs">❓ FAQs</h2>
-<p><strong>Can I sharpen them with a normal sharpener?</strong> Yes<br>
-<strong>Are they suitable for kids?</strong> Yes, non-toxic and safe for children.</p>
+</div>
 
 
-</section>
 
  ]]></description>
-  <category>Recycled Wood</category>
-  <category>Stationery</category>
-  <guid>https://jamarko.com.np/shop/pencils/products/product2.html</guid>
-  <pubDate>Sun, 21 Dec 2025 04:39:19 GMT</pubDate>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-13-leather-matte.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps013-leather-matte+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-13-paper-textured.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps013-paper-textured+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps013-paper-textured+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-paper-textured+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-paper-textured+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-paper-textured+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.4 (22 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$3.83</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-013-paper-textured
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 3 x 17 x 2 in - Weight: 3.41 lb - Options: material:paper | finish:textured - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-13-leather-matte" data-sku="ps-013-leather-matte" data-price="4.94">material:leather | finish:matte</option>
+<option value="pencils-13-wood-glossy" data-sku="ps-013-wood-glossy" data-price="4.3">material:wood | finish:glossy</option>
+<option value="pencils-13-paper-textured" data-sku="ps-013-paper-textured" data-price="3.83">material:paper | finish:textured</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-013-paper-textured" data-price="<span class=" price"="">$3.83"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 9 x 8 x 5 in
+</li>
+<li>
+<strong>Weight:</strong> 11.66 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $5.79
+</li>
+<li>
+<strong>Delivery Time:</strong> 12 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-13-paper-textured.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps013-paper-textured+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-13-wood-glossy.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps013-wood-glossy+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps013-wood-glossy+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013-wood-glossy+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.9 (253 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$4.30</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-013-wood-glossy
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 18 x 19 x 8 in - Weight: 0.79 lb - Options: material:wood | finish:glossy - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-13-leather-matte" data-sku="ps-013-leather-matte" data-price="4.94">material:leather | finish:matte</option>
+<option value="pencils-13-wood-glossy" data-sku="ps-013-wood-glossy" data-price="4.3">material:wood | finish:glossy</option>
+<option value="pencils-13-paper-textured" data-sku="ps-013-paper-textured" data-price="3.83">material:paper | finish:textured</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-013-wood-glossy" data-price="<span class=" price"="">$4.30"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 8 x 16 x 1 in
+</li>
+<li>
+<strong>Weight:</strong> 8.44 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $5.79
+</li>
+<li>
+<strong>Delivery Time:</strong> 12 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-13-wood-glossy.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps013-wood-glossy+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-13.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps013+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps013+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps013+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.8 (194 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">$4.17</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-013
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 18 x 10 x 3 in - Weight: 11.86 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-13-leather-matte" data-sku="ps-013-leather-matte" data-price="4.94">material:leather | finish:matte</option>
+<option value="pencils-13-wood-glossy" data-sku="ps-013-wood-glossy" data-price="4.3">material:wood | finish:glossy</option>
+<option value="pencils-13-paper-textured" data-sku="ps-013-paper-textured" data-price="3.83">material:paper | finish:textured</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-013" data-price="<span class=" price"="">$4.17"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 19 x 15 x 6 in
+</li>
+<li>
+<strong>Weight:</strong> 10.9 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> $5.79
+</li>
+<li>
+<strong>Delivery Time:</strong> 12 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-13.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps013+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-19.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps019+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps019+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps019+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps019+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps019+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps019+5" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.5 (197 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">रू5.30</span>
+      </div>
+
+      <p class="availability">
+        Availability: Out of Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-019
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 15 x 15 x 4 in - Weight: 9.8 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-019" data-price="<span class=" price"="">रू5.30"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 20 x 8 x 10 in
+</li>
+<li>
+<strong>Weight:</strong> 14.56 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> रू12.93
+</li>
+<li>
+<strong>Delivery Time:</strong> 9 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-19.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps019+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-23-geometric.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps023-geometric+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps023-geometric+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023-geometric+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.5 (15 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$17.44</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-023-geometric
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 19 x 17 x 9 in - Weight: 1.44 lb - Options: pattern:geometric - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-23-plain" data-sku="ps-023-plain" data-price="17.29">pattern:plain</option>
+<option value="pencils-23-geometric" data-sku="ps-023-geometric" data-price="17.44">pattern:geometric</option>
+<option value="pencils-23-striped" data-sku="ps-023-striped" data-price="15.32">pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-023-geometric" data-price="<span class=" price"="">CA$17.44"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 4 x 19 x 1 in
+</li>
+<li>
+<strong>Weight:</strong> 2.61 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> CA$12.36
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-23-geometric.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps023-geometric+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-23-plain.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps023-plain+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps023-plain+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023-plain+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.9 (147 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$17.29</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-023-plain
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: wood - Dimensions: 15 x 5 x 7 in - Weight: 12.28 lb - Options: pattern:plain - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-23-plain" data-sku="ps-023-plain" data-price="17.29">pattern:plain</option>
+<option value="pencils-23-geometric" data-sku="ps-023-geometric" data-price="17.44">pattern:geometric</option>
+<option value="pencils-23-striped" data-sku="ps-023-striped" data-price="15.32">pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-023-plain" data-price="<span class=" price"="">CA$17.29"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 15 x 17 x 1 in
+</li>
+<li>
+<strong>Weight:</strong> 8.23 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Warehouse
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> CA$12.36
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-23-plain.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps023-plain+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-23-striped.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps023-striped+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps023-striped+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023-striped+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.9 (251 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$15.32</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-023-striped
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: metal - Dimensions: 8 x 12 x 10 in - Weight: 2.74 lb - Options: pattern:striped - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-23-plain" data-sku="ps-023-plain" data-price="17.29">pattern:plain</option>
+<option value="pencils-23-geometric" data-sku="ps-023-geometric" data-price="17.44">pattern:geometric</option>
+<option value="pencils-23-striped" data-sku="ps-023-striped" data-price="15.32">pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-023-striped" data-price="<span class=" price"="">CA$15.32"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 13 x 6 x 8 in
+</li>
+<li>
+<strong>Weight:</strong> 8.27 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store B
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> CA$12.36
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-23-striped.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps023-striped+1" medium="image"/>
+</item>
+<item>
+  <title>Pencils Product</title>
+  <link>https://jamarko.com.np/shop/pencils/products/pencils-23.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img id="mainImage" src="https://placehold.co/600x600?text=ps023+1" alt="pencils image" class="main-image" loading="eager">
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=ps023+1" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023+2" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023+3" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+<img src="https://placehold.co/600x600?text=ps023+4" class="thumbnail" alt="pencils image" loading="lazy" data-thumb="">
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Pencils Product</h1>
+      <p class="category">pencils</p>
+
+      <div class="rating">
+        ⭐ 4.6 (193 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">CA$16.36</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: ps-023
+      </p>
+
+      <p class="short-description">
+        High quality pencils
+      </p>
+
+      <p class="additional_details">
+        - Material: paper - Dimensions: 20 x 5 x 2 in - Weight: 4.28 lb - High-quality pencils product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="pencils-23-plain" data-sku="ps-023-plain" data-price="17.29">pattern:plain</option>
+<option value="pencils-23-geometric" data-sku="ps-023-geometric" data-price="17.44">pattern:geometric</option>
+<option value="pencils-23-striped" data-sku="ps-023-striped" data-price="15.32">pattern:striped</option>
+</select>
+
+      <button class="add-to-cart" id="addToCartBtn" data-sku="ps-023" data-price="<span class=" price"="">CA$16.36"
+      &gt;
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+<!-- Tabbed Content -->
+<div class="tabset">
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>High quality pencils with multiple variants.</p>
+</section>
+<section id="specifications" class="level2">
+<h2 class="anchored" data-anchor-id="specifications">Specifications</h2>
+<ul>
+<li>
+<strong>Dimensions:</strong> 11 x 7 x 1 in
+</li>
+<li>
+<strong>Weight:</strong> 9.28 lb
+</li>
+<li>
+<strong>Supplier:</strong> Jamarko
+</li>
+<li>
+<strong>Stock Location:</strong> Jamarko Retail Store A
+</li>
+</ul>
+</section>
+<section id="shipping-returns" class="level2">
+<h2 class="anchored" data-anchor-id="shipping-returns">Shipping &amp; Returns</h2>
+<ul>
+<li>
+<strong>Shipping Cost:</strong> CA$12.36
+</li>
+<li>
+<strong>Delivery Time:</strong> 5 days
+</li>
+<li>
+<strong>Regions:</strong> Nepal
+</li>
+<li>
+<strong>Return Policy:</strong> 30 day return
+</li>
+</ul>
+</section>
+</div>
+
+
+
+ ]]></description>
+  <category>pencils</category>
+  <guid>https://jamarko.com.np/shop/pencils/products/pencils-23.html</guid>
+  <pubDate>Tue, 23 Dec 2025 13:06:53 GMT</pubDate>
+  <media:content url="https://placehold.co/600x600?text=ps023+1" medium="image"/>
 </item>
 </channel>
 </rss>

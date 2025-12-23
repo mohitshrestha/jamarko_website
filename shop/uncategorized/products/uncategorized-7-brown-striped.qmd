@@ -1,0 +1,104 @@
+---
+title: "Uncategorized Product"
+subtitle: "Buy premium uncategorized online"
+categories: "uncategorized"
+image: "https://placehold.co/600x600?text=uc007-brown-striped+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=uc007-brown-striped+1"
+        alt="uncategorized image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=uc007-brown-striped+1" class="thumbnail" alt="uncategorized image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=uc007-brown-striped+2" class="thumbnail" alt="uncategorized image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=uc007-brown-striped+3" class="thumbnail" alt="uncategorized image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Uncategorized Product</h1>
+      <p class="category">uncategorized</p>
+
+      <div class="rating">
+        ⭐ 4.7 (139 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€21,90</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: uc-007-brown-striped
+      </p>
+
+      <p class="short-description">
+        High quality uncategorized
+      </p>
+
+      <p class="additional_details">
+        - Material: leather - Dimensions: 16 x 3 x 1 in - Weight: 9.69 lb - Options: color:brown | pattern:striped - High-quality uncategorized product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="uncategorized-7-green-plain" data-sku="uc-007-green-plain" data-price="21.56">color:green | pattern:plain</option>
+<option value="uncategorized-7-white-floral" data-sku="uc-007-white-floral" data-price="21.98">color:white | pattern:floral</option>
+<option value="uncategorized-7-brown-striped" data-sku="uc-007-brown-striped" data-price="21.9">color:brown | pattern:striped</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="uc-007-brown-striped"
+        data-price="<span class="price">€21,90</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality uncategorized with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 18 x 18 x 6 in</li>
+  <li><strong>Weight:</strong> 7.74 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store A</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €12,49</li>
+  <li><strong>Delivery Time:</strong> 4 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::

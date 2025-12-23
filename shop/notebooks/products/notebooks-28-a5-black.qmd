@@ -1,0 +1,105 @@
+---
+title: "Notebooks Product"
+subtitle: "Buy premium notebooks online"
+categories: "notebooks"
+image: "https://placehold.co/600x600?text=nb028-a5-black+1"
+page-layout: full
+format:
+  html:
+    css: ../../../assets/css/product.css
+    js: ../../../assets/scripts/js/product.js
+---
+
+```{=html}
+<div class="product-page">
+
+  <section class="product-top">
+
+    <!-- Product Gallery -->
+    <div class="product-gallery" aria-label="Product image gallery">
+      <img
+        id="mainImage"
+        src="https://placehold.co/600x600?text=nb028-a5-black+1"
+        alt="notebooks image"
+        class="main-image"
+        loading="eager"
+      />
+
+      <div class="carousel" id="thumbnailCarousel">
+        <img src="https://placehold.co/600x600?text=nb028-a5-black+1" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb028-a5-black+2" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb028-a5-black+3" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+<img src="https://placehold.co/600x600?text=nb028-a5-black+4" class="thumbnail" alt="notebooks image" loading="lazy" data-thumb />
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="product-info">
+      <h1>Notebooks Product</h1>
+      <p class="category">notebooks</p>
+
+      <div class="rating">
+        ⭐ 4.4 (192 reviews)
+      </div>
+
+      <div class="price-block" id="priceBlock">
+        <span class="price">€5,45</span>
+      </div>
+
+      <p class="availability">
+        Availability: In Stock
+      </p>
+
+      <p class="sku" id="productSKU">
+        SKU: nb-028-a5-black
+      </p>
+
+      <p class="short-description">
+        High quality notebooks
+      </p>
+
+      <p class="additional_details">
+        - Material: fabric - Dimensions: 14 x 8 x 6 in - Weight: 8.03 lb - Options: size:a5 | color:black - High-quality notebooks product
+      </p>
+
+      <!-- Variant Dropdown -->
+      <select class="product-variants" id="variantSelect" onchange="onVariantChange(this)">
+<option value="notebooks-28-a5-black" data-sku="nb-028-a5-black" data-price="5.45">size:a5 | color:black</option>
+<option value="notebooks-28-a4-black" data-sku="nb-028-a4-black" data-price="5.94">size:a4 | color:black</option>
+<option value="notebooks-28-a4-blue" data-sku="nb-028-a4-blue" data-price="6.25">size:a4 | color:blue</option>
+</select>
+
+      <button
+        class="add-to-cart"
+        id="addToCartBtn"
+        data-sku="nb-028-a5-black"
+        data-price="<span class="price">€5,45</span>"
+      >
+        Add to Cart
+      </button>
+    </div>
+
+  </section>
+</div>
+```
+<!-- Tabbed Content -->
+::: {.tabset}
+## Description
+High quality notebooks with multiple variants.
+
+## Specifications
+<ul>
+  <li><strong>Dimensions:</strong> 14 x 8 x 2 in</li>
+  <li><strong>Weight:</strong> 0.79 lb</li>
+  <li><strong>Supplier:</strong> Jamarko</li>
+  <li><strong>Stock Location:</strong> Jamarko Retail Store B</li>
+</ul>
+
+## Shipping & Returns
+<ul>
+  <li><strong>Shipping Cost:</strong> €14,51</li>
+  <li><strong>Delivery Time:</strong> 4 days</li>
+  <li><strong>Regions:</strong> Nepal</li>
+  <li><strong>Return Policy:</strong> 30 day return</li>
+</ul>
+:::
