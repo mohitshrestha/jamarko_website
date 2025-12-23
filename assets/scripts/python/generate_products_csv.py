@@ -159,6 +159,10 @@ def generate_additional_details(product_name: str, variant_options: str = "") ->
     bullets = [b for b in bullets if b]
     return " ".join(bullets)
 
+def generate_display_status() -> str:
+    """Generate a random display status for the product."""
+    return random.choice(["Published", "Unpublished", "Draft", "OutOfStock", "ComingSoon", "Archived", "PreOrder"])
+
 # -------------------------------
 # Main CSV Generation
 # -------------------------------
@@ -230,7 +234,7 @@ def generate_products_csv(filename: str = "products.csv"):
                     additional_details = generate_additional_details(product_type, variant_options_str)
                     
                     variant_row = [
-                        variant_id, pid, f"{product_type}_{product_counter}", variant_sku, variant_options_str,
+                        generate_display_status(), variant_id, pid, f"{product_type}_{product_counter}", variant_sku, variant_options_str,
                         variant_price, currency, variant_quantity, availability_status, restock_threshold,
                         product_type, slugify(f"{parent_slug}-{'-'.join(values)}"), short_desc, long_desc, 
                         pipe_join(variant_images), meta_title, meta_desc, primary_keyword, image_alt_text,
@@ -249,7 +253,7 @@ def generate_products_csv(filename: str = "products.csv"):
             # ----------------------
             parent_availability = compute_availability_status(total_quantity)
             parent_row = [
-                pid, "", f"{product_type}_{product_counter}", sku, "",
+                generate_display_status(), pid, "", f"{product_type}_{product_counter}", sku, "",
                 base_price, currency, total_quantity, parent_availability,
                 generate_restock_threshold(total_quantity),
                 product_type, parent_slug, short_desc, long_desc, image_array,
@@ -269,7 +273,7 @@ def generate_products_csv(filename: str = "products.csv"):
     # CSV Header
     # ----------------------
     header = [
-        "product_id","parent_product_id","product_name","sku","variant_options","price","currency",
+        "display_status","product_id","parent_product_id","product_name","sku","variant_options","price","currency",
         "quantity_available","stock_availability_status","restock_threshold","product_type","product_url_slug",
         "product_short_description","product_description","product_images","meta_title","meta_description",
         "primary_keyword","image_alt_text","product_rating","review_count","discount_price","cost_price",
